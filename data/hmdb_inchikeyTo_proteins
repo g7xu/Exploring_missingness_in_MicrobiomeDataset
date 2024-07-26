@@ -1,0 +1,1074 @@
+,xrefs_inchikey,associated_proteins_uniprotkb,associated_proteins_name,associated_proteins_type
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Q02338,"d-beta-hydroxybutyrate dehydrogenase, mitochondrial",biolink:Protein
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Q9BUT1,3-hydroxybutyrate dehydrogenase type 2,biolink:Protein
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Q9NT06,novel protein similar to 3-hydroxymethyl-3-methylglutaryl-coenzyme a lyase (hydroxymethylglutaricaciduria),biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P30838,"aldehyde dehydrogenase, dimeric nadp-preferring",biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P48448,aldehyde dehydrogenase family 3 member b2,biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P43353,aldehyde dehydrogenase family 3 member b1,biolink:Protein
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P06276,cholinesterase,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P53985,monocarboxylate transporter 1,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P01375,tumor necrosis factor,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P37231,peroxisome proliferator-activated receptor gamma,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P56524,histone deacetylase 4,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q9UKV0,histone deacetylase 9,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q08AH1,"acyl-coenzyme a synthetase acsm1, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q6P461,"acyl-coenzyme a synthetase acsm6, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q08AH3,"acyl-coenzyme a synthetase acsm2a, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q68CK6,"acyl-coenzyme a synthetase acsm2b, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q53FZ2,"acyl-coenzyme a synthetase acsm3, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q6NUN0,"acyl-coenzyme a synthetase acsm5, mitochondrial",biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q92769,histone deacetylase 2,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,O15379,histone deacetylase 3,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,Q9UQL6,histone deacetylase 5,biolink:Protein
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,P0C7M7,"acyl-coenzyme a synthetase acsm4, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P35914,"hydroxymethylglutaryl-coa lyase, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q8WYK0,acyl-coenzyme a thioesterase 12,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9NR19,"acetyl-coenzyme a synthetase, cytoplasmic",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9NUB1,"acetyl-coenzyme a synthetase 2-like, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P30838,"aldehyde dehydrogenase, dimeric nadp-preferring",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P49419,alpha-aminoadipic semialdehyde dehydrogenase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P23141,liver carboxylesterase 1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,O00748,cocaine esterase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P10768,s-formylglutathione hydrolase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q13093,platelet-activating factor acetylhydrolase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P22303,acetylcholinesterase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q15102,platelet-activating factor acetylhydrolase ib subunit gamma,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P68402,platelet-activating factor acetylhydrolase ib subunit beta,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q99487,"platelet-activating factor acetylhydrolase 2, cytoplasmic",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9HAT2,sialate o-acetylesterase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P48448,aldehyde dehydrogenase family 3 member b2,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P43353,aldehyde dehydrogenase family 3 member b1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P14621,acylphosphatase-2,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P07311,acylphosphatase-1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q03154,aminoacylase-1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P45381,aspartoacylase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P43034,platelet-activating factor acetylhydrolase ib subunit alpha,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9Y2B2,n-acetylglucosaminyl-phosphatidylinositol de-n-acetylase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q96HD9,aspartoacylase-2,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P05093,"steroid 17-alpha-hydroxylase/17,20 lyase",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,P53985,monocarboxylate transporter 1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,O94956,solute carrier organic anion transporter family member 2b1,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9Y303,putative n-acetylglucosamine-6-phosphate deacetylase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q8N0X4,"citrate lyase subunit beta-like protein, mitochondrial",biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q86U10,60 kda lysophospholipase,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q96FY7,acss2 protein,biolink:Protein
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Q9H6R3,"acyl-coa synthetase short-chain family member 3, mitochondrial",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P19021,peptidyl-glycine alpha-amidating monooxygenase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P09172,dopamine beta-hydroxylase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,O14832,"phytanoyl-coa dioxygenase, peroxisomal",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,O15460,prolyl 4-hydroxylase subunit alpha-2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P13674,prolyl 4-hydroxylase subunit alpha-1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P09848,lactase-phlorizin hydrolase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,O75936,gamma-butyrobetaine dioxygenase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q02809,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,O00469,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,O60568,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P78417,glutathione s-transferase omega-1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9H4Y5,glutathione s-transferase omega-2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,P07237,protein disulfide-isomerase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9UHI7,solute carrier family 23 member 1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9UGH3,solute carrier family 23 member 2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9NVH6,"trimethyllysine dioxygenase, mitochondrial",biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q6NS38,alpha-ketoglutarate-dependent dioxygenase alkb homolog 2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q96Q83,alpha-ketoglutarate-dependent dioxygenase alkb homolog 3,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q32P28,prolyl 3-hydroxylase 1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q8IVL5,prolyl 3-hydroxylase 2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q8IVL6,prolyl 3-hydroxylase 3,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q6PIS1,solute carrier family 23 member 3,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q7Z4N8,prolyl 4-hydroxylase subunit alpha-3,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9GZT9,egl nine homolog 1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q96KS0,egl nine homolog 2,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9H6Z9,egl nine homolog 3,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q9NXG6,transmembrane prolyl 4-hydroxylase,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q8N543,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1,biolink:Protein
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Q6N063,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2,biolink:Protein
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,P06280,alpha-galactosidase a,biolink:Protein
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,O43451,"maltase-glucoamylase, intestinal",biolink:Protein
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,Q8TET4,neutral alpha-glucosidase c,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P21964,catechol o-methyltransferase,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P00439,phenylalanine-4-hydroxylase,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P11086,phenylethanolamine n-methyltransferase,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P08913,alpha-2a adrenergic receptor,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P18089,alpha-2b adrenergic receptor,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P08588,beta-1 adrenergic receptor,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P07550,beta-2 adrenergic receptor,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,P35348,alpha-1a adrenergic receptor,biolink:Protein
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,Q96RJ0,trace amine-associated receptor 1,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P14679,tyrosinase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P09172,dopamine beta-hydroxylase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P20711,aromatic-l-amino-acid decarboxylase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P19801,amiloride-sensitive amine oxidase [copper-containing],biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q16853,membrane primary amine oxidase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,O75106,retina-specific copper amine oxidase,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P11712,cytochrome p450 2c9,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P33261,cytochrome p450 2c19,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P10635,cytochrome p450 2d6,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P05177,cytochrome p450 1a2,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,O76082,solute carrier family 22 member 5,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P14416,d(2) dopamine receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P21917,d(4) dopamine receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q01959,sodium-dependent dopamine transporter,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,O15245,solute carrier family 22 member 1,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,O15244,solute carrier family 22 member 2,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,O75751,solute carrier family 22 member 3,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q9NYX4,neuron-specific vesicular protein calcyon,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q9ULU8,calcium-dependent secretion activator 1,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q86UW7,calcium-dependent secretion activator 2,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P35462,d(3) dopamine receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P21728,d(1a) dopamine receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,P21918,d(1b) dopamine receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q99586,dopamine d4 receptor,biolink:Protein
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Q99587,dopamine d4 receptor,biolink:Protein
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,O94760,"n(g),n(g)-dimethylarginine dimethylaminohydrolase 1",biolink:Protein
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,O95865,"n(g),n(g)-dimethylarginine dimethylaminohydrolase 2",biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q02928,cytochrome p450 4a11,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P11766,alcohol dehydrogenase class-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P40394,alcohol dehydrogenase class 4 mu/sigma chain,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P00326,alcohol dehydrogenase 1c,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P08684,cytochrome p450 3a4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P11712,cytochrome p450 2c9,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P33261,cytochrome p450 2c19,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P05181,cytochrome p450 2e1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P20813,cytochrome p450 2b6,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P04798,cytochrome p450 1a1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P05177,cytochrome p450 1a2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q01668,voltage-dependent l-type calcium channel subunit alpha-1d,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q13936,voltage-dependent l-type calcium channel subunit alpha-1c,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q99808,equilibrative nucleoside transporter 1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P19320,vascular cell adhesion protein 1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P42261,glutamate receptor 1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P46098,5-hydroxytryptamine receptor 3a,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q14542,equilibrative nucleoside transporter 2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q9GZZ6,neuronal acetylcholine receptor subunit alpha-10,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q9UGM1,neuronal acetylcholine receptor subunit alpha-9,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q13698,voltage-dependent l-type calcium channel subunit alpha-1s,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q02641,voltage-dependent l-type calcium channel subunit beta-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q06432,voltage-dependent calcium channel gamma-1 subunit,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q9Y698,voltage-dependent calcium channel gamma-2 subunit,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P42262,glutamate receptor 2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q8TCU5,glutamate [nmda] receptor subunit 3a,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P14867,gamma-aminobutyric acid receptor subunit alpha-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P47869,gamma-aminobutyric acid receptor subunit alpha-2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P34903,gamma-aminobutyric acid receptor subunit alpha-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P48169,gamma-aminobutyric acid receptor subunit alpha-4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P31644,gamma-aminobutyric acid receptor subunit alpha-5,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q16445,gamma-aminobutyric acid receptor subunit alpha-6,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P18505,gamma-aminobutyric acid receptor subunit beta-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P47870,gamma-aminobutyric acid receptor subunit beta-2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P28472,gamma-aminobutyric acid receptor subunit beta-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,O14764,gamma-aminobutyric acid receptor subunit delta,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P78334,gamma-aminobutyric acid receptor subunit epsilon,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q8N1C3,gamma-aminobutyric acid receptor subunit gamma-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q99928,gamma-aminobutyric acid receptor subunit gamma-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,O00591,gamma-aminobutyric acid receptor subunit pi,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q9UN88,gamma-aminobutyric acid receptor subunit theta,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P23415,glycine receptor subunit alpha-1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P23416,glycine receptor subunit alpha-2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P48549,g protein-activated inward rectifier potassium channel 1,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P48544,g protein-activated inward rectifier potassium channel 4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P48051,g protein-activated inward rectifier potassium channel 2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q92806,g protein-activated inward rectifier potassium channel 3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q15822,neuronal acetylcholine receptor subunit alpha-2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,O95264,5-hydroxytryptamine receptor 3b,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P17787,neuronal acetylcholine receptor subunit beta-2,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P30532,neuronal acetylcholine receptor subunit alpha-5,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P30926,neuronal acetylcholine receptor subunit beta-4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P32297,neuronal acetylcholine receptor subunit alpha-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P36544,neuronal acetylcholine receptor subunit alpha-7,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P42263,glutamate receptor 3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P43681,neuronal acetylcholine receptor subunit alpha-4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,P48058,glutamate receptor 4,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q05901,neuronal acetylcholine receptor subunit beta-3,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q15825,neuronal acetylcholine receptor subunit alpha-6,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q70Z44,5-hydroxytryptamine receptor 3d,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Q8WXA8,5-hydroxytryptamine receptor 3c,biolink:Protein
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,A5X5Y0,5-hydroxytryptamine receptor 3e,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P80404,"4-aminobutyrate aminotransferase, mitochondrial",biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P49419,alpha-aminoadipic semialdehyde dehydrogenase,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P50440,"glycine amidinotransferase, mitochondrial",biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P15104,glutamine synthetase,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q05329,glutamate decarboxylase 2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q99259,glutamate decarboxylase 1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q96A70,arginine decarboxylase,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P18507,gamma-aminobutyric acid receptor subunit gamma-2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q9UBS5,gamma-aminobutyric acid type b receptor subunit 1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q5JPH6,"probable glutamate--trna ligase, mitochondrial",biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,O75899,gamma-aminobutyric acid type b receptor subunit 2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P14867,gamma-aminobutyric acid receptor subunit alpha-1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P47869,gamma-aminobutyric acid receptor subunit alpha-2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P34903,gamma-aminobutyric acid receptor subunit alpha-3,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P48169,gamma-aminobutyric acid receptor subunit alpha-4,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P31644,gamma-aminobutyric acid receptor subunit alpha-5,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q16445,gamma-aminobutyric acid receptor subunit alpha-6,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P18505,gamma-aminobutyric acid receptor subunit beta-1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P47870,gamma-aminobutyric acid receptor subunit beta-2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P28472,gamma-aminobutyric acid receptor subunit beta-3,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,O14764,gamma-aminobutyric acid receptor subunit delta,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P78334,gamma-aminobutyric acid receptor subunit epsilon,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q8N1C3,gamma-aminobutyric acid receptor subunit gamma-1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q99928,gamma-aminobutyric acid receptor subunit gamma-3,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,O00591,gamma-aminobutyric acid receptor subunit pi,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P24046,gamma-aminobutyric acid receptor subunit rho-1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P28476,gamma-aminobutyric acid receptor subunit rho-2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,A8MPY1,gamma-aminobutyric acid receptor subunit rho-3,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q9UN88,gamma-aminobutyric acid receptor subunit theta,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,A5YM72,carnosine synthase 1,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,P60520,gamma-aminobutyric acid receptor-associated protein-like 2,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,O95166,gamma-aminobutyric acid receptor-associated protein,biolink:Protein
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,Q9H0R8,gamma-aminobutyric acid receptor-associated protein-like 1,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,P11413,glucose-6-phosphate 1-dehydrogenase,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,Q9UBQ7,glyoxylate reductase/hydroxypyruvate reductase,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,Q02928,cytochrome p450 4a11,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,Q9UJM8,hydroxyacid oxidase 1,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,Q9NYQ3,hydroxyacid oxidase 2,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,A6NDG6,phosphoglycolate phosphatase,biolink:Protein
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,Q5TCH4,cytochrome p450 4a22,biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P30838,"aldehyde dehydrogenase, dimeric nadp-preferring",biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P48448,aldehyde dehydrogenase family 3 member b2,biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P43353,aldehyde dehydrogenase family 3 member b1,biolink:Protein
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P42898,methylenetetrahydrofolate reductase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q14749,glycine n-methyltransferase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,O95954,formimidoyltransferase-cyclodeaminase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P00374,dihydrofolate reductase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P49914,5-formyltetrahydrofolate cyclo-ligase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P05181,cytochrome p450 2e1,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,O15438,canalicular multispecific organic anion transporter 2,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q9UNQ0,atp-binding cassette sub-family g member 2,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P15328,folate receptor alpha,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P41440,folate transporter 1,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,O60779,thiamine transporter 1,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q96NT5,proton-coupled folate transporter,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P41439,folate receptor gamma,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q92820,gamma-glutamyl hydrolase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,O15439,multidrug resistance-associated protein 4,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,B0YJ76,dihydrofolate reductase,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q4U2R8,solute carrier family 22 member 6,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q96J66,atp-binding cassette sub-family c member 11,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,P14207,folate receptor beta,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q9H2D1,mitochondrial folate transporter/carrier,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q53S99,folate transporter-like protein c2orf83,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,A6ND01,probable folate receptor delta,biolink:Protein
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,Q86XF0,"dihydrofolate reductase, mitochondrial",biolink:Protein
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,Q14032,bile acid-coa:amino acid n-acyltransferase,biolink:Protein
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,Q969I3,glycine n-acyltransferase-like protein 1,biolink:Protein
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,Q8WU03,glycine n-acyltransferase-like protein 2,biolink:Protein
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,Q5SZD4,glycine n-acyltransferase-like protein 3,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q16850,lanosterol 14-alpha demethylase,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P10768,s-formylglutathione hydrolase,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P45381,aspartoacylase,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q96HD9,aspartoacylase-2,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P11586,"c-1-tetrahydrofolate synthase, cytoplasmic",biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P30793,gtp cyclohydrolase 1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P08684,cytochrome p450 3a4,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P11712,cytochrome p450 2c9,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P33261,cytochrome p450 2c19,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q9HBH1,"peptide deformylase, mitochondrial",biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P05181,cytochrome p450 2e1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q9HB55,cytochrome p450 3a43,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q16678,cytochrome p450 1b1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P33260,cytochrome p450 2c18,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P24903,cytochrome p450 2f1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q8N118,cytochrome p450 4x1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P20813,cytochrome p450 2b6,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P20815,cytochrome p450 3a5,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q16696,cytochrome p450 2a13,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P24462,cytochrome p450 3a7,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P13584,cytochrome p450 4b1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q86W10,cytochrome p450 4z1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P05177,cytochrome p450 1a2,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P11511,cytochrome p450 19a1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P10632,cytochrome p450 2c8,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q96SQ9,cytochrome p450 2s1,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P51589,cytochrome p450 2j2,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P20853,cytochrome p450 2a7,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,P11509,cytochrome p450 2a6,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q6UB35,"monofunctional c1-tetrahydrofolate synthase, mitochondrial",biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q7Z650,"methylenetetrahydrofolate dehydrogenase (nadp+ dependent) 2, methenyltetrahydrofolate cyclohydrolase",biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q63HM1,kynurenine formamidase,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,A0N0X8,"cytochrome p450, family 1, subfamily a, polypeptide 1",biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q6NWU0,cytochrome p450 2d6,biolink:Protein
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,Q9BV57,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase",biolink:Protein
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Q6ZMR3,l-lactate dehydrogenase a-like 6a,biolink:Protein
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,P07195,l-lactate dehydrogenase b chain,biolink:Protein
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,P07864,l-lactate dehydrogenase c chain,biolink:Protein
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,P00338,l-lactate dehydrogenase a chain,biolink:Protein
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Q9BYZ2,l-lactate dehydrogenase a-like 6b,biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P49419,alpha-aminoadipic semialdehyde dehydrogenase,biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P14174,macrophage migration inhibitory factor,biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P17735,tyrosine aminotransferase,biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P17174,"aspartate aminotransferase, cytoplasmic",biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P00505,"aspartate aminotransferase, mitochondrial",biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Q16773,kynurenine--oxoglutarate transaminase 1,biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,P32754,4-hydroxyphenylpyruvate dioxygenase,biolink:Protein
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Q96RQ9,l-amino-acid oxidase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P09622,"dihydrolipoyl dehydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P80404,"4-aminobutyrate aminotransferase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O14832,"phytanoyl-coa dioxygenase, peroxisomal",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P17735,tyrosine aminotransferase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P17174,"aspartate aminotransferase, cytoplasmic",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P00505,"aspartate aminotransferase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P54687,"branched-chain-amino-acid aminotransferase, cytosolic",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O15460,prolyl 4-hydroxylase subunit alpha-2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P13674,prolyl 4-hydroxylase subunit alpha-1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8N5Z0,"kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O75936,gamma-butyrobetaine dioxygenase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9BYV1,"alanine--glyoxylate aminotransferase 2, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P04181,"ornithine aminotransferase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q02218,"2-oxoglutarate dehydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q02809,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O00469,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O60568,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q16773,kynurenine--oxoglutarate transaminase 1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O15382,"branched-chain-amino-acid aminotransferase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P49448,"glutamate dehydrogenase 2, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P00367,"glutamate dehydrogenase 1, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P21549,serine--pyruvate aminotransferase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P24298,alanine aminotransferase 1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9Y617,phosphoserine aminotransferase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9UDR5,"alpha-aminoadipic semialdehyde synthase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P48735,"isocitrate dehydrogenase [nadp], mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O43837,"isocitrate dehydrogenase [nad] subunit beta, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O75874,isocitrate dehydrogenase [nadp] cytoplasmic,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P50213,"isocitrate dehydrogenase [nad] subunit alpha, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,P51553,"isocitrate dehydrogenase [nad] subunit gamma, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O43175,d-3-phosphoglycerate dehydrogenase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q12797,aspartyl/asparaginyl beta-hydroxylase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9NWT6,hypoxia-inducible factor 1-alpha inhibitor,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q02978,mitochondrial 2-oxoglutarate/malate carrier protein,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8N465,"d-2-hydroxyglutarate dehydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9H9P8,"l-2-hydroxyglutarate dehydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q4W5N8,"aminoadipate aminotransferase, isoform cra_b",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9NVH6,"trimethyllysine dioxygenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8TD30,alanine aminotransferase 2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,A4D0W4,aminoadipate-semialdehyde synthase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q6NS38,alpha-ketoglutarate-dependent dioxygenase alkb homolog 2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q32P28,prolyl 3-hydroxylase 1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8IVL5,prolyl 3-hydroxylase 2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8IVL6,prolyl 3-hydroxylase 3,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8NHS2,"putative aspartate aminotransferase, cytoplasmic 2",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q6YP21,kynurenine--oxoglutarate transaminase 3,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q96HY7,"probable 2-oxoglutarate dehydrogenase e1 component dhktd1, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9ULD0,"2-oxoglutarate dehydrogenase-like, mitochondrial",biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q7Z4N8,prolyl 4-hydroxylase subunit alpha-3,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9Y2K7,lysine-specific demethylase 2a,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8NHM5,lysine-specific demethylase 2b,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9GZT9,egl nine homolog 1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q96KS0,egl nine homolog 2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9H6Z9,egl nine homolog 3,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9NXG6,transmembrane prolyl 4-hydroxylase,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q13686,alkylated dna repair protein alkb homolog 1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8N371,lysine-specific demethylase 8,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8IUF8,bifunctional lysine-specific demethylase and histidyl-hydroxylase mina,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9NQR4,omega-amidase nit2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9H6W3,bifunctional lysine-specific demethylase and histidyl-hydroxylase no66,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q9UPP1,histone lysine demethylase phf8,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q8NFU7,methylcytosine dioxygenase tet1,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Q6N021,methylcytosine dioxygenase tet2,biolink:Protein
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,O43151,methylcytosine dioxygenase tet3,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P09172,dopamine beta-hydroxylase,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P00439,phenylalanine-4-hydroxylase,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P11086,phenylethanolamine n-methyltransferase,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P32189,glycerol kinase,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P05177,cytochrome p450 1a2,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P08913,alpha-2a adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P18089,alpha-2b adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,O76082,solute carrier family 22 member 5,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P08588,beta-1 adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P07550,beta-2 adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P23975,sodium-dependent noradrenaline transporter,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,O15245,solute carrier family 22 member 1,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,O15244,solute carrier family 22 member 2,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,O75751,solute carrier family 22 member 3,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P35348,alpha-1a adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P35368,alpha-1b adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P25100,alpha-1d adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,O00445,synaptotagmin-5,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P13945,beta-3 adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Q9Y6W9,norepinephrine transporter isoform 2,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,P18825,alpha-2c adrenergic receptor,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Q9UQ04,norepinephrine transporter isoform 1,biolink:Protein
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Q71UR5,norepinephrine transporter,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,O95336,6-phosphogluconolactonase,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P11413,glucose-6-phosphate 1-dehydrogenase,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P50225,sulfotransferase 1a1,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P50226,sulfotransferase 1a2,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P50224,sulfotransferase 1a3/1a4,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,P52209,"6-phosphogluconate dehydrogenase, decarboxylating",biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Q9UKG4,solute carrier family 13 member 4,biolink:Protein
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,A9Z1X1,putative uncharacterized protein pgd,biolink:Protein
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Q9NR19,"acetyl-coenzyme a synthetase, cytoplasmic",biolink:Protein
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Q9NUB1,"acetyl-coenzyme a synthetase 2-like, mitochondrial",biolink:Protein
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Q9NQX3,gephyrin,biolink:Protein
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Q96FY7,acss2 protein,biolink:Protein
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Q9H6R3,"acyl-coa synthetase short-chain family member 3, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P11177,"pyruvate dehydrogenase e1 component subunit beta, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P11498,"pyruvate carboxylase, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P08559,"pyruvate dehydrogenase e1 component subunit alpha, somatic form, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P29803,"pyruvate dehydrogenase e1 component subunit alpha, testis-specific form, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P09622,"dihydrolipoyl dehydrogenase, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P10515,"dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P14920,d-amino-acid oxidase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P80404,"4-aminobutyrate aminotransferase, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q9BYV1,"alanine--glyoxylate aminotransferase 2, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P17707,s-adenosylmethionine decarboxylase proenzyme,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q16773,kynurenine--oxoglutarate transaminase 1,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P32929,cystathionine gamma-lyase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P20132,l-serine dehydratase/l-threonine deaminase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P51828,adenylate cyclase type 7,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q8NFM4,adenylate cyclase type 4,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O43306,adenylate cyclase type 6,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O95622,adenylate cyclase type 5,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P40145,adenylate cyclase type 8,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O60503,adenylate cyclase type 9,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O60266,adenylate cyclase type 3,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q08828,adenylate cyclase type 1,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P14618,pyruvate kinase isozymes m1/m2,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P30613,pyruvate kinase isozymes r/l,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P25325,3-mercaptopyruvate sulfurtransferase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P21549,serine--pyruvate aminotransferase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P24298,alanine aminotransferase 1,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P48163,nadp-dependent malic enzyme,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q16798,"nadp-dependent malic enzyme, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P23368,"nad-dependent malic enzyme, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P19113,histidine decarboxylase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q6ZMR3,l-lactate dehydrogenase a-like 6a,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q08462,adenylate cyclase type 2,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q16762,thiosulfate sulfurtransferase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O95907,monocarboxylate transporter 3,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O15427,monocarboxylate transporter 4,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O15403,monocarboxylate transporter 7,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P53985,monocarboxylate transporter 1,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P36021,monocarboxylate transporter 8,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O15375,monocarboxylate transporter 6,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O15374,monocarboxylate transporter 5,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,O60669,monocarboxylate transporter 2,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q9UG56,phosphatidylserine decarboxylase proenzyme,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P07195,l-lactate dehydrogenase b chain,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P07864,l-lactate dehydrogenase c chain,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,P00338,l-lactate dehydrogenase a chain,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q9BYZ2,l-lactate dehydrogenase a-like 6b,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q86WU2,"probable d-lactate dehydrogenase, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q8TD30,alanine aminotransferase 2,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q96I15,selenocysteine lyase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q8TF71,monocarboxylate transporter 10,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q92959,solute carrier organic anion transporter family member 2a1,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q9BXD5,n-acetylneuraminate lyase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,A1L0T0,acetolactate synthase-like protein,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q8TBJ0,malic enzyme,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q6P587,"acylpyruvase fahd1, mitochondrial",biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q6YP21,kynurenine--oxoglutarate transaminase 3,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q96GA7,serine dehydratase-like,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q9GZT4,serine racemase,biolink:Protein
+23,LCTONWCANYUPML-UHFFFAOYSA-N,Q86XE5,"probable 4-hydroxy-2-oxoglutarate aldolase, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q99643,"succinate dehydrogenase cytochrome b560 subunit, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P31040,"succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O14521,"succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P21912,"succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P51649,"succinate-semialdehyde dehydrogenase, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O14832,"phytanoyl-coa dioxygenase, peroxisomal",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O15460,prolyl 4-hydroxylase subunit alpha-2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P13674,prolyl 4-hydroxylase subunit alpha-1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O75936,gamma-butyrobetaine dioxygenase,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q02809,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O00469,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O60568,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P55809,"succinyl-coa:3-ketoacid coenzyme a transferase 1, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9BYC2,"succinyl-coa:3-ketoacid coenzyme a transferase 2, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,P53597,"succinyl-coa ligase [adp/gdp-forming] subunit alpha, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q96I99,"succinyl-coa ligase [gdp-forming] subunit beta, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9P2R7,"succinyl-coa ligase [adp-forming] subunit beta, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q12797,aspartyl/asparaginyl beta-hydroxylase,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9NWT6,hypoxia-inducible factor 1-alpha inhibitor,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9UBX3,mitochondrial dicarboxylate carrier,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8WWT9,solute carrier family 13 member 3,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O14756,17-beta-hydroxysteroid dehydrogenase type 6,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9BZW2,solute carrier family 13 member 1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q13183,solute carrier family 13 member 2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9NVH6,"trimethyllysine dioxygenase, mitochondrial",biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q6NS38,alpha-ketoglutarate-dependent dioxygenase alkb homolog 2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q32P28,prolyl 3-hydroxylase 1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8IVL5,prolyl 3-hydroxylase 2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8IVL6,prolyl 3-hydroxylase 3,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q7Z4N8,prolyl 4-hydroxylase subunit alpha-3,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9Y2K7,lysine-specific demethylase 2a,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8NHM5,lysine-specific demethylase 2b,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9GZT9,egl nine homolog 1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q96KS0,egl nine homolog 2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9H6Z9,egl nine homolog 3,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9NXG6,transmembrane prolyl 4-hydroxylase,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q13686,alkylated dna repair protein alkb homolog 1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8N371,lysine-specific demethylase 8,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8IUF8,bifunctional lysine-specific demethylase and histidyl-hydroxylase mina,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9H6W3,bifunctional lysine-specific demethylase and histidyl-hydroxylase no66,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q9UPP1,histone lysine demethylase phf8,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q8NFU7,methylcytosine dioxygenase tet1,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Q6N021,methylcytosine dioxygenase tet2,biolink:Protein
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,O43151,methylcytosine dioxygenase tet3,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q16613,serotonin n-acetyltransferase,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P20711,aromatic-l-amino-acid decarboxylase,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P42330,aldo-keto reductase family 1 member c3,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,O95050,indolethylamine n-methyltransferase,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P14902,"indoleamine 2,3-dioxygenase 1",biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,O60678,protein arginine n-methyltransferase 3,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P31645,sodium-dependent serotonin transporter,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q13639,5-hydroxytryptamine receptor 4,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P34969,5-hydroxytryptamine receptor 7,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P08047,transcription factor sp1,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P41595,5-hydroxytryptamine receptor 2b,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P28222,5-hydroxytryptamine receptor 1b,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P30939,5-hydroxytryptamine receptor 1f,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P08908,5-hydroxytryptamine receptor 1a,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P28223,5-hydroxytryptamine receptor 2a,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P46098,5-hydroxytryptamine receptor 3a,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P28221,5-hydroxytryptamine receptor 1d,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q6ZQW0,"indoleamine 2,3-dioxygenase 2",biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,O95264,5-hydroxytryptamine receptor 3b,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P28566,5-hydroxytryptamine receptor 1e,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,P47898,5-hydroxytryptamine receptor 5a,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q9Y5R4,hemk methyltransferase family member 1,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q6P1Q9,methyltransferase-like protein 2b,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Q8TCB7,methyltransferase-like protein 6,biolink:Protein
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,O43709,uncharacterized methyltransferase wbscr22,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P14679,tyrosinase,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P20711,aromatic-l-amino-acid decarboxylase,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P19801,amiloride-sensitive amine oxidase [copper-containing],biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Q16853,membrane primary amine oxidase,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,O75106,retina-specific copper amine oxidase,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P08913,alpha-2a adrenergic receptor,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,P18089,alpha-2b adrenergic receptor,biolink:Protein
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Q96RJ0,trace amine-associated receptor 1,biolink:Protein
+27,DZAIOXUZHHTJKN-UHFFFAOYSA-N,,,
+28,QVWAEZJXDYOKEH-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+28,QVWAEZJXDYOKEH-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+29,MUCMKTPAZLSKTL-NSHDSACASA-N,,,
+30,BITYXLXUCSKTJS-ZETCQYMHSA-N,,,
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+32,XFTRTWQBIOMVPK-UHFFFAOYSA-N,,,
+33,FVMDYYGIDFPZAX-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+33,FVMDYYGIDFPZAX-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+34,WNLRTRBMVRJNCN-UHFFFAOYSA-N,,,
+35,POJWUDADGALRAB-UHFFFAOYSA-N,A6NGE7,putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase,biolink:Protein
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,P24903,cytochrome p450 2f1,biolink:Protein
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,Q96H96,"4-hydroxybenzoate polyprenyltransferase, mitochondrial",biolink:Protein
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+39,QYIXCDOBOSTCEI-NWKZBHTNSA-N,,,
+40,LQXVFWRQNMEDEE-UOWFLXDJSA-N,,,
+41,SRBFZHDQGSBBOR-KLVWXMOXSA-N,P15121,aldose reductase,biolink:Protein
+41,SRBFZHDQGSBBOR-KLVWXMOXSA-N,O60218,aldo-keto reductase family 1 member b10,biolink:Protein
+42,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Q9NSA0,solute carrier family 22 member 11,biolink:Protein
+42,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Q4U2R8,solute carrier family 22 member 6,biolink:Protein
+42,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Q9Y694,solute carrier family 22 member 7,biolink:Protein
+43,XGILAAMKEQUXLS-JTQLQIEISA-N,,,
+44,BXFFHSIDQOFMLE-UHFFFAOYSA-N,,,
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Q6NVY1,"3-hydroxyisobutyryl-coa hydrolase, mitochondrial",biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P14174,macrophage migration inhibitory factor,biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P17735,tyrosine aminotransferase,biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P17174,"aspartate aminotransferase, cytoplasmic",biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P00505,"aspartate aminotransferase, mitochondrial",biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P32754,4-hydroxyphenylpyruvate dioxygenase,biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,Q96RQ9,l-amino-acid oxidase,biolink:Protein
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,O15427,monocarboxylate transporter 4,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,P53985,monocarboxylate transporter 1,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,O60669,monocarboxylate transporter 2,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,O43488,aflatoxin b1 aldehyde reductase member 2,biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,P18505,gamma-aminobutyric acid receptor subunit beta-1,biolink:Protein
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,Q969I3,glycine n-acyltransferase-like protein 1,biolink:Protein
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,Q8WU03,glycine n-acyltransferase-like protein 2,biolink:Protein
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,Q5SZD4,glycine n-acyltransferase-like protein 3,biolink:Protein
+49,PLVPPLCLBIEYEA-AATRIKPKSA-N,,,
+50,SIKJAQJRHWYJAI-UHFFFAOYSA-N,,,
+51,LVRFTAZAXQPQHI-YFKPBYRVSA-N,,,
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P46597,acetylserotonin o-methyltransferase,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Q06278,aldehyde oxidase,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P49419,alpha-aminoadipic semialdehyde dehydrogenase,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,P08183,multidrug resistance protein 1,biolink:Protein
+56,ISYWECDDZWTKFF-UHFFFAOYSA-N,,,
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P09923,intestinal-type alkaline phosphatase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P11117,lysosomal acid phosphatase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P05186,"alkaline phosphatase, tissue-nonspecific isozyme",biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P13686,tartrate-resistant acid phosphatase type 5,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P10696,"alkaline phosphatase, placental-like",biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q00796,sorbitol dehydrogenase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P08236,beta-glucuronidase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q9BTY2,plasma alpha-l-fucosidase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q9BV79,"trans-2-enoyl-coa reductase, mitochondrial",biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,P61626,lysozyme c,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,O95237,lecithin retinol acyltransferase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q14994,nuclear receptor subfamily 1 group i member 3,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q8N4Q0,zinc-binding alcohol dehydrogenase domain-containing protein 2,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q96K12,fatty acyl-coa reductase 2,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q6E213,acyl-coa wax alcohol acyltransferase 2,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q9UEF7,klotho,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q9BZG2,testicular acid phosphatase,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q6NT32,carboxylesterase 5a,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q8TE99,acid phosphatase-like protein 2,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q9HCJ6,synaptic vesicle membrane protein vat-1 homolog-like,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q53FA7,quinone oxidoreductase pig3,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q99536,synaptic vesicle membrane protein vat-1 homolog,biolink:Protein
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,Q8WWV3,"reticulon-4-interacting protein 1, mitochondrial",biolink:Protein
+59,SHZGCJCMOBCMKK-JFNONXLTSA-N,,,
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P14555,"phospholipase a2, membrane associated",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P09923,intestinal-type alkaline phosphatase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P11117,lysosomal acid phosphatase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P05186,"alkaline phosphatase, tissue-nonspecific isozyme",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P13686,tartrate-resistant acid phosphatase type 5,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P10696,"alkaline phosphatase, placental-like",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P30041,peroxiredoxin-6,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q7Z4W1,l-xylulose reductase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P07998,ribonuclease pancreatic,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q00796,sorbitol dehydrogenase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P23526,adenosylhomocysteinase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P08236,beta-glucuronidase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9BTY2,plasma alpha-l-fucosidase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P30793,gtp cyclohydrolase 1,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9BV79,"trans-2-enoyl-coa reductase, mitochondrial",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q13231,chitotriosidase-1,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,O60942,mrna-capping enzyme,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P17900,ganglioside gm2 activator,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,O95237,lecithin retinol acyltransferase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P01375,tumor necrosis factor,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q14994,nuclear receptor subfamily 1 group i member 3,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q8N4Q0,zinc-binding alcohol dehydrogenase domain-containing protein 2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q96K12,fatty acyl-coa reductase 2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q6E213,acyl-coa wax alcohol acyltransferase 2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9UEF7,klotho,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,P07478,trypsin-2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9BZG2,testicular acid phosphatase,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q6NT32,carboxylesterase 5a,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q13838,spliceosome rna helicase ddx39b,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9BV57,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase",biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q8TE99,acid phosphatase-like protein 2,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q9HCJ6,synaptic vesicle membrane protein vat-1 homolog-like,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q53FA7,quinone oxidoreductase pig3,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q99536,synaptic vesicle membrane protein vat-1 homolog,biolink:Protein
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Q8WWV3,"reticulon-4-interacting protein 1, mitochondrial",biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P20711,aromatic-l-amino-acid decarboxylase,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P19801,amiloride-sensitive amine oxidase [copper-containing],biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,O75106,retina-specific copper amine oxidase,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P50135,histamine n-methyltransferase,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P19113,histidine decarboxylase,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P25021,histamine h2 receptor,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,Q05940,synaptic vesicular amine transporter,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,Q9Y5N1,histamine h3 receptor,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,P35367,histamine h1 receptor,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,Q9H3N8,histamine h4 receptor,biolink:Protein
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,Q9P2Y4,zinc finger protein 219,biolink:Protein
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,P28329,choline o-acetyltransferase,biolink:Protein
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,P22303,acetylcholinesterase,biolink:Protein
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,P06276,cholinesterase,biolink:Protein
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,,
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,P49326,dimethylaniline monooxygenase [n-oxide-forming] 5,biolink:Protein
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,Q99518,dimethylaniline monooxygenase [n-oxide-forming] 2,biolink:Protein
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,P31512,dimethylaniline monooxygenase [n-oxide-forming] 4,biolink:Protein
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,P31513,dimethylaniline monooxygenase [n-oxide-forming] 3,biolink:Protein
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,Q01740,dimethylaniline monooxygenase [n-oxide-forming] 1,biolink:Protein
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,P49326,dimethylaniline monooxygenase [n-oxide-forming] 5,biolink:Protein
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,Q99518,dimethylaniline monooxygenase [n-oxide-forming] 2,biolink:Protein
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,P31512,dimethylaniline monooxygenase [n-oxide-forming] 4,biolink:Protein
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,P31513,dimethylaniline monooxygenase [n-oxide-forming] 3,biolink:Protein
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,Q01740,dimethylaniline monooxygenase [n-oxide-forming] 1,biolink:Protein
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+67,KSEBMYQBYZTDHS-HWKANZROSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+67,KSEBMYQBYZTDHS-HWKANZROSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,P13686,tartrate-resistant acid phosphatase type 5,biolink:Protein
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,P15309,prostatic acid phosphatase,biolink:Protein
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Q9NPH0,lysophosphatidic acid phosphatase type 6,biolink:Protein
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Q9BZG2,testicular acid phosphatase,biolink:Protein
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,B5MCC7,putative uncharacterized protein acp1,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P17516,aldo-keto reductase family 1 member c4,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P50224,sulfotransferase 1a3/1a4,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P42330,aldo-keto reductase family 1 member c3,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Q04828,aldo-keto reductase family 1 member c1,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P52895,aldo-keto reductase family 1 member c2,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Q9UQ10,"trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",biolink:Protein
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Q8WZ04,transmembrane o-methyltransferase,biolink:Protein
+70,HDTRYLNUVZCQOY-LIZSDCNHSA-N,O43280,trehalase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P30838,"aldehyde dehydrogenase, dimeric nadp-preferring",biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P49419,alpha-aminoadipic semialdehyde dehydrogenase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P05091,"aldehyde dehydrogenase, mitochondrial",biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P51648,fatty aldehyde dehydrogenase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,Q03393,6-pyruvoyl tetrahydrobiopterin synthase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P48448,aldehyde dehydrogenase family 3 member b2,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P43353,aldehyde dehydrogenase family 3 member b1,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P11766,alcohol dehydrogenase class-3,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P40394,alcohol dehydrogenase class 4 mu/sigma chain,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,P00326,alcohol dehydrogenase 1c,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,Q9Y315,putative deoxyribose-phosphate aldolase,biolink:Protein
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,Q8TBG4,ethanolamine-phosphate phospho-lyase,biolink:Protein
+72,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,,,
+73,OLVVOVIFTBSBBH-KVTDHHQDSA-N,,,
+74,LABSPYBHMPDTEL-LIZSDCNHSA-N,,,
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9Y223,bifunctional udp-n-acetylglucosamine 2-epimerase/n-acetylmannosamine kinase,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9NR45,sialic acid synthase,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,P51606,n-acylglucosamine 2-epimerase,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9BXD5,n-acetylneuraminate lyase,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9NRX4,14 kda phosphohistidine phosphatase,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q13613,myotubularin-related protein 1,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q13614,myotubularin-related protein 2,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9Y217,myotubularin-related protein 6,biolink:Protein
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Q9Y216,myotubularin-related protein 7,biolink:Protein
+76,XTOKIEIBKARFSZ-LURJTMIESA-N,,,
+77,VWXQFHJBQHTHMK-LURJTMIESA-N,,,
+78,AJPADPZSRRUGHI-RFZPGFLSSA-N,,,
+79,LKDRXBCSQODPBY-BGPJRJDNSA-N,Q00796,sorbitol dehydrogenase,biolink:Protein
+80,QNAYBMKLOCPYGJ-UWTATZPHSA-N,P14920,d-amino-acid oxidase,biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Q16775,"hydroxyacylglutathione hydrolase, mitochondrial",biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,O15427,monocarboxylate transporter 4,biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,P53985,monocarboxylate transporter 1,biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,O60669,monocarboxylate transporter 2,biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Q86WU2,"probable d-lactate dehydrogenase, mitochondrial",biolink:Protein
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Q6PII5,hydroxyacylglutathione hydrolase-like protein,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P30838,"aldehyde dehydrogenase, dimeric nadp-preferring",biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P47895,aldehyde dehydrogenase family 1 member a3,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P48448,aldehyde dehydrogenase family 3 member b2,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P43353,aldehyde dehydrogenase family 3 member b1,biolink:Protein
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,Q96D96,voltage-gated hydrogen channel 1,biolink:Protein
+84,GMKMEZVLHJARHF-WHFBIAKZSA-N,,,
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,,,
+86,ALYNCZNDIQEVRV-UHFFFAOYSA-N,,,
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q96F10,diamine acetyltransferase 2,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P21673,diamine acetyltransferase 1,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q6QHF9,peroxisomal n(1)-acetyl-spermine/spermidine oxidase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q8NE62,"choline dehydrogenase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9UI17,"dimethylglycine dehydrogenase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P52788,spermine synthase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P19623,spermidine synthase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P49189,4-trimethylaminobutyraldehyde dehydrogenase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,O75936,gamma-butyrobetaine dioxygenase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P19801,amiloride-sensitive amine oxidase [copper-containing],biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q13126,s-methyl-5'-thioadenosine phosphorylase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P17707,s-adenosylmethionine decarboxylase proenzyme,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P50440,"glycine amidinotransferase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q93088,betaine--homocysteine s-methyltransferase 1,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9UL12,"sarcosine dehydrogenase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P19113,histidine decarboxylase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P11926,ornithine decarboxylase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9H015,solute carrier family 22 member 4,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9NWM0,spermine oxidase,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9BSE5,"agmatinase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9NVH6,"trimethyllysine dioxygenase, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q9H2M3,s-methylmethionine--homocysteine s-methyltransferase bhmt2,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q8NCN5,"pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial",biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,P54368,ornithine decarboxylase antizyme 1,biolink:Protein
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,Q6P1K2,polyamine-modulated factor 1,biolink:Protein
+88,GACTWZZMVMUKNG-KVTDHHQDSA-N,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,,,
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,P38571,lysosomal acid lipase/cholesteryl ester hydrolase,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,P23141,liver carboxylesterase 1,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,O00748,cocaine esterase,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,P14621,acylphosphatase-2,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,P07311,acylphosphatase-1,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Q6NT32,carboxylesterase 5a,biolink:Protein
+93,QAIPRVGONGVQAS-DUXPYHPUSA-N,P09917,arachidonate 5-lipoxygenase,biolink:Protein
+94,HCFRWBBJISAZNK-UHFFFAOYSA-N,,,
+95,RLSSMJSEOOYNOY-UHFFFAOYSA-N,,,
+96,QWVGKYWNOKOFNN-UHFFFAOYSA-N,,,
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Q96F10,diamine acetyltransferase 2,biolink:Protein
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,P21673,diamine acetyltransferase 1,biolink:Protein
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+98,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+98,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+98,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+99,LVHBHZANLOWSRM-UHFFFAOYSA-N,P53597,"succinyl-coa ligase [adp/gdp-forming] subunit alpha, mitochondrial",biolink:Protein
+99,LVHBHZANLOWSRM-UHFFFAOYSA-N,Q96I99,"succinyl-coa ligase [gdp-forming] subunit beta, mitochondrial",biolink:Protein
+99,LVHBHZANLOWSRM-UHFFFAOYSA-N,Q9P2R7,"succinyl-coa ligase [adp-forming] subunit beta, mitochondrial",biolink:Protein
+100,JTEDVYBZBROSJT-UHFFFAOYSA-N,P61769,beta-2-microglobulin precursor [contains: beta-2-microglobulin variant pi 5.3],biolink:Protein
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,,,
+103,VEVJTUNLALKRNO-TYHXJLICSA-N,P09110,"3-ketoacyl-coa thiolase, peroxisomal",biolink:Protein
+103,VEVJTUNLALKRNO-TYHXJLICSA-N,P55084,"trifunctional enzyme subunit beta, mitochondrial",biolink:Protein
+103,VEVJTUNLALKRNO-TYHXJLICSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+104,GOLXRNDWAUTYKT-UHFFFAOYSA-N,,,
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,O95050,indolethylamine n-methyltransferase,biolink:Protein
+106,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,P19623,spermidine synthase,biolink:Protein
+106,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Q16853,membrane primary amine oxidase,biolink:Protein
+106,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,O75106,retina-specific copper amine oxidase,biolink:Protein
+107,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,,,
+108,IJFXRHURBJZNAO-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+108,IJFXRHURBJZNAO-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+108,IJFXRHURBJZNAO-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,Q9BQB6,vitamin k epoxide reductase complex subunit 1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P32929,cystathionine gamma-lyase,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P35520,cystathionine beta-synthase,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P08684,cytochrome p450 3a4,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P11712,cytochrome p450 2c9,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P33261,cytochrome p450 2c19,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P05181,cytochrome p450 2e1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q9HB55,cytochrome p450 3a43,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q16678,cytochrome p450 1b1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P33260,cytochrome p450 2c18,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P24903,cytochrome p450 2f1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q8N118,cytochrome p450 4x1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P20813,cytochrome p450 2b6,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P20815,cytochrome p450 3a5,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q16696,cytochrome p450 2a13,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P24462,cytochrome p450 3a7,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P13584,cytochrome p450 4b1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q86W10,cytochrome p450 4z1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P05177,cytochrome p450 1a2,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P11511,cytochrome p450 19a1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P10632,cytochrome p450 2c8,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q96SQ9,cytochrome p450 2s1,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P51589,cytochrome p450 2j2,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P20853,cytochrome p450 2a7,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,P11509,cytochrome p450 2a6,biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,O43766,"lipoyl synthase, mitochondrial",biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,A0N0X8,"cytochrome p450, family 1, subfamily a, polypeptide 1",biolink:Protein
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,Q6NWU0,cytochrome p450 2d6,biolink:Protein
+115,VGEREEWJJVICBM-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+115,VGEREEWJJVICBM-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+116,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Q9UI32,"glutaminase liver isoform, mitochondrial",biolink:Protein
+116,WHUUTDBJXJRKMK-GSVOUGTGSA-N,O94925,"glutaminase kidney isoform, mitochondrial",biolink:Protein
+117,JJMDCOVWQOJGCB-UHFFFAOYSA-N,,,
+118,MBBOMCVGYCRMEA-UHFFFAOYSA-N,,,
+119,RAJWOBJTTGJROA-QJISAEMRSA-N,P17516,aldo-keto reductase family 1 member c4,biolink:Protein
+119,RAJWOBJTTGJROA-QJISAEMRSA-N,P51857,3-oxo-5-beta-steroid 4-dehydrogenase,biolink:Protein
+120,SXDXRJZUAJBNFL-XKSSXDPKSA-N,,,
+121,RQRINYISXYAZKL-RPDRRWSUSA-N,Q9NRX4,14 kda phosphohistidine phosphatase,biolink:Protein
+122,BEOUGZFCUMNGOU-UHFFFAOYSA-N,,,
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,P09848,lactase-phlorizin hydrolase,biolink:Protein
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,P16278,beta-galactosidase,biolink:Protein
+124,YCCILVSKPBXVIP-UHFFFAOYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P09923,intestinal-type alkaline phosphatase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P11117,lysosomal acid phosphatase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P05186,"alkaline phosphatase, tissue-nonspecific isozyme",biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P13686,tartrate-resistant acid phosphatase type 5,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P10696,"alkaline phosphatase, placental-like",biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q00796,sorbitol dehydrogenase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,P08236,beta-glucuronidase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q9BTY2,plasma alpha-l-fucosidase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q9BV79,"trans-2-enoyl-coa reductase, mitochondrial",biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,O95237,lecithin retinol acyltransferase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q14994,nuclear receptor subfamily 1 group i member 3,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q8N4Q0,zinc-binding alcohol dehydrogenase domain-containing protein 2,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q8NBN7,retinol dehydrogenase 13,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q96K12,fatty acyl-coa reductase 2,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q6E213,acyl-coa wax alcohol acyltransferase 2,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q9UEF7,klotho,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q9BZG2,testicular acid phosphatase,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q6NT32,carboxylesterase 5a,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q8TE99,acid phosphatase-like protein 2,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q9HCJ6,synaptic vesicle membrane protein vat-1 homolog-like,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q53FA7,quinone oxidoreductase pig3,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q99536,synaptic vesicle membrane protein vat-1 homolog,biolink:Protein
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Q8WWV3,"reticulon-4-interacting protein 1, mitochondrial",biolink:Protein
+126,CHTHALBTIRVDBM-UHFFFAOYSA-N,,,
+127,HHVIBTZHLRERCL-UHFFFAOYSA-N,,,
+128,JUUBCHWRXWPFFH-UHFFFAOYSA-N,,,
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q15166,serum paraoxonase/lactonase 3,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P27169,serum paraoxonase/arylesterase 1,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q15165,serum paraoxonase/arylesterase 2,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P09923,intestinal-type alkaline phosphatase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P11117,lysosomal acid phosphatase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P05186,"alkaline phosphatase, tissue-nonspecific isozyme",biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P13686,tartrate-resistant acid phosphatase type 5,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P10696,"alkaline phosphatase, placental-like",biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P30837,"aldehyde dehydrogenase x, mitochondrial",biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,O00204,sulfotransferase family cytosolic 2b member 1,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q00796,sorbitol dehydrogenase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P14550,alcohol dehydrogenase [nadp(+)],biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P08319,alcohol dehydrogenase 4,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P00325,alcohol dehydrogenase 1b,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P07327,alcohol dehydrogenase 1a,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P28332,alcohol dehydrogenase 6,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,P08236,beta-glucuronidase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q9BTY2,plasma alpha-l-fucosidase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q9BV79,"trans-2-enoyl-coa reductase, mitochondrial",biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,O95237,lecithin retinol acyltransferase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q14994,nuclear receptor subfamily 1 group i member 3,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q8N4Q0,zinc-binding alcohol dehydrogenase domain-containing protein 2,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q8IWW8,"hydroxyacid-oxoacid transhydrogenase, mitochondrial",biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q96K12,fatty acyl-coa reductase 2,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q6E213,acyl-coa wax alcohol acyltransferase 2,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q9UEF7,klotho,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q9BZG2,testicular acid phosphatase,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q6NT32,carboxylesterase 5a,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q8TE99,acid phosphatase-like protein 2,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q9HCJ6,synaptic vesicle membrane protein vat-1 homolog-like,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q53FA7,quinone oxidoreductase pig3,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q99536,synaptic vesicle membrane protein vat-1 homolog,biolink:Protein
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Q8WWV3,"reticulon-4-interacting protein 1, mitochondrial",biolink:Protein
+130,PHTQWCKDNZKARW-UHFFFAOYSA-N,P00797,renin,biolink:Protein
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Q6IB77,glycine n-acyltransferase,biolink:Protein
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Q969I3,glycine n-acyltransferase-like protein 1,biolink:Protein
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Q8WU03,glycine n-acyltransferase-like protein 2,biolink:Protein
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Q5SZD4,glycine n-acyltransferase-like protein 3,biolink:Protein
+132,TXXHDPDFNKHHGW-CCAGOZQPSA-N,,,
+133,JFLIEFSWGNOPJJ-JTQLQIEISA-N,,,
+134,ZOSQFDVXNQFKBY-CGAXJHMRSA-N,,,
+135,NUZLRKBHOBPTQV-ARJAWSKDSA-N,,,
+136,WFPZSXYXPSUOPY-ROYWQJLOSA-N,,,
+137,ZKLLSNQJRLJIGT-OTWZMJIISA-N,,,
+138,CJJCPDZKQKUXSS-ARQDHWQXSA-N,,,
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,,,
+140,IZSRJDGCGRAUAR-UHFFFAOYSA-N,,,
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Q16613,serotonin n-acetyltransferase,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,P27338,amine oxidase [flavin-containing] b,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,P21397,amine oxidase [flavin-containing] a,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,P20711,aromatic-l-amino-acid decarboxylase,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Q16853,membrane primary amine oxidase,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,O75106,retina-specific copper amine oxidase,biolink:Protein
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Q96RJ0,trace amine-associated receptor 1,biolink:Protein
+143,WQZGKKKJIJFFOK-QRXFDPRISA-N,,,
+144,GZQKNULLWNGMCW-PWQABINMSA-N,,,
+145,BFVQTKQTUCQRPI-YYEZTRBPSA-N,,,
+146,AAXCQFOXUJMCCW-PETQGJDISA-N,,,
+147,QCDYQQDYXPDABM-UHFFFAOYSA-N,,,
+148,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,P21964,catechol o-methyltransferase,biolink:Protein
+148,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,P22309,udp-glucuronosyltransferase 1-1,biolink:Protein
+148,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,P0DMM9,sulfotransferase 1a3,biolink:Protein
+149,OLNJUISKUQQNIM-UHFFFAOYSA-N,,,
+150,KTHADMDGDNYQRX-UHFFFAOYSA-N,,,
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,,,
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,Q99798,"aconitate hydratase, mitochondrial",biolink:Protein
+153,RWRDLPDLKQPQOW-UHFFFAOYSA-N,,,
+154,RSTKLPZEZYGQPY-UHFFFAOYSA-N,Q96RQ9,l-amino-acid oxidase,biolink:Protein
+155,XVARCVCWNFACQC-RKQHYHRCSA-N,,,
+156,TXXHDPDFNKHHGW-UHFFFAOYSA-N,,,

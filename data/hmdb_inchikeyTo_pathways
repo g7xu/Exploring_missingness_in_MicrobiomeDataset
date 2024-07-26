@@ -1,0 +1,946 @@
+,xrefs_inchikey,associated_pathways_kegg_map_id,associated_pathways_name,associated_pathways_type,associated_pathways_smpdb_id
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,,fatty acid biosynthesis,biolink:Pathway,SMP00456
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,map00072,ketone body metabolism,biolink:Pathway,SMP00071
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,,succinyl coa: 3-ketoacid coa transferase deficiency,biolink:Pathway,SMP00569
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,map00650,butyrate metabolism,biolink:Pathway,SMP00073
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,,fatty acid biosynthesis,biolink:Pathway,SMP00456
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,map00520,amino sugar metabolism,biolink:Pathway,SMP00045
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,map00250,aspartate metabolism,biolink:Pathway,SMP00067
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,canavan disease,biolink:Pathway,SMP00175
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,ethanol degradation,biolink:Pathway,SMP00449
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,fatty acid biosynthesis,biolink:Pathway,SMP00456
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,"g(m2)-gangliosidosis: variant b, tay-sachs disease",biolink:Pathway,SMP00534
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,heroin action pathway,biolink:Pathway,SMP00407
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,heroin metabolism pathway,biolink:Pathway,SMP00623
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,hypoacetylaspartia,biolink:Pathway,SMP00192
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,salla disease/infantile sialic acid storage disease,biolink:Pathway,SMP00240
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,sialuria or french type sialuria,biolink:Pathway,SMP00216
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,tay-sachs disease,biolink:Pathway,SMP00390
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,aromatic l-aminoacid decarboxylase deficiency,biolink:Pathway,SMP00170
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,carnitine synthesis,biolink:Pathway,SMP00465
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,oxidation of branched chain fatty acids,biolink:Pathway,SMP00030
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,phytanic acid peroxisomal oxidation,biolink:Pathway,SMP00450
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,refsum disease,biolink:Pathway,SMP00451
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,the oncogenic action of fumarate,biolink:Pathway,SMP02295
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,the oncogenic action of succinate,biolink:Pathway,SMP02292
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,tyrosine hydroxylase deficiency,biolink:Pathway,SMP00497
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,map00052,galactose metabolism,biolink:Pathway,SMP00043
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,,galactosemia,biolink:Pathway,SMP00182
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,alkaptonuria,biolink:Pathway,SMP00169
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,aromatic l-aminoacid decarboxylase deficiency,biolink:Pathway,SMP00170
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,epinephrine action pathway,biolink:Pathway,SMP00661
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,tyrosine hydroxylase deficiency,biolink:Pathway,SMP00497
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,map00350,tyrosine metabolism,biolink:Pathway,
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,map00350,tyrosine metabolism,biolink:Pathway,
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,3-methylthiofentanyl action pathway,biolink:Pathway,SMP00679
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,alfentanil action pathway,biolink:Pathway,SMP00413
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,alvimopan action pathway,biolink:Pathway,SMP00685
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,anileridine action pathway,biolink:Pathway,SMP00674
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,aromatic l-aminoacid decarboxylase deficiency,biolink:Pathway,SMP00170
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,benzocaine action pathway,biolink:Pathway,SMP00392
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,bupivacaine action pathway,biolink:Pathway,SMP00393
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,buprenorphine action pathway,biolink:Pathway,SMP00684
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,carfentanil action pathway,biolink:Pathway,SMP00414
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,chloroprocaine action pathway,biolink:Pathway,SMP00394
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,citalopram action pathway,biolink:Pathway,SMP00424
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,cocaine action pathway,biolink:Pathway,SMP00395
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,codeine action pathway,biolink:Pathway,SMP00405
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,desipramine action pathway,biolink:Pathway,SMP00423
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dezocine action pathway,biolink:Pathway,SMP00676
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dibucaine action pathway,biolink:Pathway,SMP00396
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dihydromorphine action pathway,biolink:Pathway,SMP00689
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dimethylthiambutene action pathway,biolink:Pathway,SMP00680
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,diphenoxylate action pathway,biolink:Pathway,SMP00675
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dopamine activation of neurological reward system,biolink:Pathway,SMP00308
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,escitalopram action pathway,biolink:Pathway,SMP00425
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,ethylmorphine action pathway,biolink:Pathway,SMP00681
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,fentanyl action pathway,biolink:Pathway,SMP00415
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,fluoxetine action pathway,biolink:Pathway,SMP00426
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,heroin action pathway,biolink:Pathway,SMP00407
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,hydrocodone action pathway,biolink:Pathway,SMP00411
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,hydromorphone action pathway,biolink:Pathway,SMP00410
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,imipramine action pathway,biolink:Pathway,SMP00422
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,ketobemidone  action pathway,biolink:Pathway,SMP00690
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,levallorphan action pathway,biolink:Pathway,SMP00683
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,levobupivacaine action pathway,biolink:Pathway,SMP00397
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,levomethadyl acetate action action pathway,biolink:Pathway,SMP00677
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,levorphanol action pathway,biolink:Pathway,SMP00673
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,lidocaine (local anaesthetic) action pathway,biolink:Pathway,SMP00398
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,mepivacaine action pathway,biolink:Pathway,SMP00399
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,methadone action pathway,biolink:Pathway,SMP00408
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,methadyl acetate action pathway,biolink:Pathway,SMP00678
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,morphine action pathway,biolink:Pathway,SMP00406
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,nalbuphine action pathway,biolink:Pathway,SMP00691
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,naloxone action pathway,biolink:Pathway,SMP00688
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,naltrexone action pathway,biolink:Pathway,SMP00687
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,nicotine action pathway,biolink:Pathway,SMP00431
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,oxybuprocaine action pathway,biolink:Pathway,SMP00400
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,oxycodone action pathway,biolink:Pathway,SMP00409
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,oxymorphone action pathway,biolink:Pathway,SMP00412
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,pentazocine action pathway,biolink:Pathway,SMP00686
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,prilocaine action pathway,biolink:Pathway,SMP00401
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,procaine action pathway,biolink:Pathway,SMP00402
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,proparacaine action pathway,biolink:Pathway,SMP00403
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,propoxyphene action pathway,biolink:Pathway,SMP00672
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,remifentanil action pathway,biolink:Pathway,SMP00416
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,ropivacaine action pathway,biolink:Pathway,SMP00404
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,sufentanil action pathway,biolink:Pathway,SMP00417
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,tramadol action action pathway,biolink:Pathway,SMP00671
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,tyrosine hydroxylase deficiency,biolink:Pathway,SMP00497
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,,citalopram action pathway,biolink:Pathway,SMP00424
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,,citalopram metabolism pathway,biolink:Pathway,SMP00627
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,,ethanol degradation,biolink:Pathway,SMP00449
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,,2-hydroxyglutric aciduria (d and l form),biolink:Pathway,SMP00136
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,,4-hydroxybutyric aciduria/succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00243
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,map00250,glutamate metabolism,biolink:Pathway,SMP00072
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,,homocarnosinosis,biolink:Pathway,SMP00385
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,,hyperinsulinism-hyperammonemia syndrome,biolink:Pathway,SMP00339
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,,succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00567
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,,,,
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,,"folate malabsorption, hereditary",biolink:Pathway,SMP00724
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,,methotrexate action pathway,biolink:Pathway,SMP00432
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,,methylenetetrahydrofolate reductase deficiency (mthfrd),biolink:Pathway,SMP00543
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,map00670,one carbon pool by folate,biolink:Pathway,
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,map00790,pterine biosynthesis,biolink:Pathway,SMP00005
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,27-hydroxylase deficiency,biolink:Pathway,SMP00720
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,cerebrotendinous xanthomatosis (ctx),biolink:Pathway,SMP00315
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,congenital bile acid synthesis defect type ii,biolink:Pathway,SMP00314
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,congenital bile acid synthesis defect type iii,biolink:Pathway,SMP00318
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,familial hypercholanemia (fhca),biolink:Pathway,SMP00317
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,map00120,primary bile acid biosynthesis,biolink:Pathway,
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,,zellweger syndrome,biolink:Pathway,SMP00316
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,17-beta hydroxysteroid dehydrogenase iii deficiency,biolink:Pathway,SMP00356
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,alendronate action pathway,biolink:Pathway,SMP00095
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,map00150,androgen and estrogen metabolism,biolink:Pathway,SMP00068
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,androstenedione metabolism,biolink:Pathway,SMP30406
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,aromatase deficiency,biolink:Pathway,SMP00565
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,atorvastatin action pathway,biolink:Pathway,SMP00131
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,cerivastatin action pathway,biolink:Pathway,SMP00111
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,child syndrome,biolink:Pathway,SMP00387
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,cholesteryl ester storage disease,biolink:Pathway,SMP00508
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,"chondrodysplasia punctata ii, x linked dominant (cdpx2)",biolink:Pathway,SMP00388
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,desmosterolosis,biolink:Pathway,SMP00386
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,dopa-responsive dystonia,biolink:Pathway,SMP00486
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,fluvastatin action pathway,biolink:Pathway,SMP00119
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,"folate malabsorption, hereditary",biolink:Pathway,SMP00724
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,hyper-igd syndrome,biolink:Pathway,SMP00509
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,hypercholesterolemia,biolink:Pathway,SMP00209
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,hyperphenylalaniemia due to guanosine triphosphate cyclohydrolase deficiency,biolink:Pathway,SMP00487
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,hyperphenylalaninemia due to 6-pyruvoyltetrahydropterin synthase deficiency (ptps),biolink:Pathway,SMP00488
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,hyperphenylalaninemia due to dhpr-deficiency,biolink:Pathway,SMP00489
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,ibandronate action pathway,biolink:Pathway,SMP00079
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,lovastatin action pathway,biolink:Pathway,SMP00099
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,lysosomal acid lipase deficiency (wolman disease),biolink:Pathway,SMP00319
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,methotrexate action pathway,biolink:Pathway,SMP00432
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,methylenetetrahydrofolate reductase deficiency (mthfrd),biolink:Pathway,SMP00543
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,mevalonic aciduria,biolink:Pathway,SMP00510
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,map00670,one carbon pool by folate,biolink:Pathway,
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,pamidronate action pathway,biolink:Pathway,SMP00117
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,pravastatin action pathway,biolink:Pathway,SMP00089
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,map00790,pterine biosynthesis,biolink:Pathway,SMP00005
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,risedronate action pathway,biolink:Pathway,SMP00112
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,rosuvastatin action pathway,biolink:Pathway,SMP00092
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,segawa syndrome,biolink:Pathway,SMP00490
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,sepiapterin reductase deficiency,biolink:Pathway,SMP00491
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,simvastatin action pathway,biolink:Pathway,SMP00082
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,smith-lemli-opitz syndrome (slos),biolink:Pathway,SMP00389
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,map00100,steroid biosynthesis,biolink:Pathway,SMP00023
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,map00380,tryptophan metabolism,biolink:Pathway,
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,wolman disease,biolink:Pathway,SMP00511
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,zoledronate action pathway,biolink:Pathway,SMP00107
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,"fructose-1,6-diphosphatase deficiency",biolink:Pathway,SMP00562
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,glutaminolysis and cancer,biolink:Pathway,SMP02298
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,glycogen storage disease type 1a (gsd1a) or von gierke disease,biolink:Pathway,SMP00374
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,"glycogenosis, type ia. von gierke disease",biolink:Pathway,SMP00581
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,"glycogenosis, type ib",biolink:Pathway,SMP00573
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,"glycogenosis, type ic",biolink:Pathway,SMP00574
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,map00010,glycolysis / gluconeogenesis,biolink:Pathway,
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,phosphoenolpyruvate carboxykinase deficiency 1 (pepck1),biolink:Pathway,SMP00560
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,triosephosphate isomerase,biolink:Pathway,SMP00563
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,warburg effect,biolink:Pathway,SMP00654
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,map00380,tryptophan metabolism,biolink:Pathway,
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,map00360,phenylalanine and tyrosine metabolism,biolink:Pathway,SMP00008
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,,phenylketonuria,biolink:Pathway,SMP00206
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,,tyrosinemia type 2 (or richner-hanhart syndrome),biolink:Pathway,SMP00369
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,,tyrosinemia type 3 (tyro3),biolink:Pathway,SMP00370
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,2-aminoadipic 2-oxoadipic aciduria,biolink:Pathway,SMP00719
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,2-hydroxyglutric aciduria (d and l form),biolink:Pathway,SMP00136
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,2-ketoglutarate dehydrogenase complex deficiency,biolink:Pathway,SMP00549
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,2-methyl-3-hydroxybutryl coa dehydrogenase deficiency,biolink:Pathway,SMP00137
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-hydroxy-3-methylglutaryl-coa lyase deficiency,biolink:Pathway,SMP00138
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-hydroxyisobutyric acid dehydrogenase deficiency,biolink:Pathway,SMP00521
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-hydroxyisobutyric aciduria,biolink:Pathway,SMP00522
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-methylcrotonyl coa carboxylase deficiency type i,biolink:Pathway,SMP00237
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-methylglutaconic aciduria type i,biolink:Pathway,SMP00139
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-methylglutaconic aciduria type iii,biolink:Pathway,SMP00140
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-methylglutaconic aciduria type iv,biolink:Pathway,SMP00141
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,3-phosphoglycerate dehydrogenase deficiency,biolink:Pathway,SMP00721
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,4-hydroxybutyric aciduria/succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00243
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00250,"alanine, aspartate and glutamate metabolism",biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00330,arginine and proline metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,arginine: glycine amidinotransferase deficiency (agat deficiency),biolink:Pathway,SMP00362
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,argininemia,biolink:Pathway,SMP00357
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,argininosuccinic aciduria,biolink:Pathway,SMP00003
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00250,aspartate metabolism,biolink:Pathway,SMP00067
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00410,beta-alanine metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,beta-ketothiolase deficiency,biolink:Pathway,SMP00173
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,beta-mercaptolactate-cysteine disulfiduria,biolink:Pathway,SMP00499
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,canavan disease,biolink:Pathway,SMP00175
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,carbamoyl phosphate synthetase deficiency,biolink:Pathway,SMP00002
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,carnitine synthesis,biolink:Pathway,SMP00465
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"carnosinuria, carnosinemia",biolink:Pathway,SMP00493
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00020,citric acid cycle,biolink:Pathway,SMP00057
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,citrullinemia type i,biolink:Pathway,SMP00001
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,congenital lactic acidosis,biolink:Pathway,SMP00546
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"creatine deficiency, guanidinoacetate methyltransferase deficiency",biolink:Pathway,SMP00504
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00270,cysteine metabolism,biolink:Pathway,SMP00013
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"cystinosis, ocular nonnephropathic",biolink:Pathway,SMP00722
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,dihydropyrimidine dehydrogenase deficiency (dhpd),biolink:Pathway,SMP00179
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,dimethylglycine dehydrogenase deficiency,biolink:Pathway,SMP00242
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,dimethylglycine dehydrogenase deficiency,biolink:Pathway,SMP00484
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"fructose-1,6-diphosphatase deficiency",biolink:Pathway,SMP00562
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,fumarase deficiency,biolink:Pathway,SMP00547
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,gaba-transaminase deficiency,biolink:Pathway,SMP00351
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,glucose-alanine cycle,biolink:Pathway,SMP00127
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00250,glutamate metabolism,biolink:Pathway,SMP00072
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,glutaminolysis and cancer,biolink:Pathway,SMP02298
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,glutaric aciduria type i,biolink:Pathway,SMP00186
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00260,"glycine, serine and threonine metabolism",biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,glycogen storage disease type 1a (gsd1a) or von gierke disease,biolink:Pathway,SMP00374
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"glycogenosis, type ia. von gierke disease",biolink:Pathway,SMP00581
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"glycogenosis, type ib",biolink:Pathway,SMP00573
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"glycogenosis, type ic",biolink:Pathway,SMP00574
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00010,glycolysis / gluconeogenesis,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,guanidinoacetate methyltransferase deficiency (gamt deficiency),biolink:Pathway,SMP00188
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,homocarnosinosis,biolink:Pathway,SMP00385
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"hyperglycinemia, non-ketotic",biolink:Pathway,SMP00485
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperinsulinism-hyperammonemia syndrome,biolink:Pathway,SMP00339
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"hyperlysinemia i, familial",biolink:Pathway,SMP00527
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperlysinemia ii or saccharopinuria,biolink:Pathway,SMP00528
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperornithinemia with gyrate atrophy (hoga),biolink:Pathway,SMP00505
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperornithinemia-hyperammonemia-homocitrullinuria [hhh-syndrome],biolink:Pathway,SMP00506
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperprolinemia type i,biolink:Pathway,SMP00361
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hyperprolinemia type ii,biolink:Pathway,SMP00360
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,hypoacetylaspartia,biolink:Pathway,SMP00192
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,isobutyryl-coa dehydrogenase deficiency,biolink:Pathway,SMP00523
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,isovaleric acidemia,biolink:Pathway,SMP00524
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,isovaleric aciduria,biolink:Pathway,SMP00238
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,l-arginine:glycine amidinotransferase deficiency,biolink:Pathway,SMP00507
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,lactic acidemia,biolink:Pathway,SMP00313
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00310,lysine degradation,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,malate-aspartate shuttle,biolink:Pathway,SMP00129
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,malonic aciduria,biolink:Pathway,SMP00198
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,malonyl-coa decarboxylase deficiency,biolink:Pathway,SMP00502
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,maple syrup urine disease,biolink:Pathway,SMP00199
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,methylmalonate semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00384
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,methylmalonic aciduria,biolink:Pathway,SMP00200
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,methylmalonic aciduria due to cobalamin-related disorders,biolink:Pathway,SMP00201
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,mitochondrial complex ii deficiency,biolink:Pathway,SMP00548
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00910,nitrogen metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,non ketotic hyperglycinemia,biolink:Pathway,SMP00223
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,ornithine aminotransferase deficiency (oat deficiency),biolink:Pathway,SMP00363
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,ornithine transcarbamylase deficiency (otc deficiency),biolink:Pathway,SMP00205
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,oxidation of branched chain fatty acids,biolink:Pathway,SMP00030
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00360,phenylalanine and tyrosine metabolism,biolink:Pathway,SMP00008
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,phenylketonuria,biolink:Pathway,SMP00206
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,phosphoenolpyruvate carboxykinase deficiency 1 (pepck1),biolink:Pathway,SMP00560
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,phytanic acid peroxisomal oxidation,biolink:Pathway,SMP00450
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,primary hyperoxaluria type i,biolink:Pathway,SMP00352
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,prolidase deficiency (pd),biolink:Pathway,SMP00207
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,prolinemia type ii,biolink:Pathway,SMP00208
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00640,propanoate metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,propionic acidemia,biolink:Pathway,SMP00236
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,pyridoxine dependency with seizures,biolink:Pathway,SMP00571
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,pyruvate carboxylase deficiency,biolink:Pathway,SMP00350
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e2),biolink:Pathway,SMP00551
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e3),biolink:Pathway,SMP00550
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,refsum disease,biolink:Pathway,SMP00451
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,saccharopinuria/hyperlysinemia ii,biolink:Pathway,SMP00239
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,sarcosinemia,biolink:Pathway,SMP00244
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00567
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,the oncogenic action of 2-hydroxyglutarate,biolink:Pathway,SMP02291
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,the oncogenic action of d-2-hydroxyglutarate in  hydroxygluaricaciduria ,biolink:Pathway,SMP02359
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,the oncogenic action of fumarate,biolink:Pathway,SMP02295
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,the oncogenic action of l-2-hydroxyglutarate in  hydroxygluaricaciduria,biolink:Pathway,SMP02358
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,the oncogenic action of succinate,biolink:Pathway,SMP02292
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,triosephosphate isomerase,biolink:Pathway,SMP00563
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00380,tryptophan metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,tyrosinemia type 2 (or richner-hanhart syndrome),biolink:Pathway,SMP00369
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,tyrosinemia type 3 (tyro3),biolink:Pathway,SMP00370
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00330,urea cycle,biolink:Pathway,SMP00059
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,ureidopropionase deficiency,biolink:Pathway,SMP00492
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,map00280,"valine, leucine and isoleucine degradation",biolink:Pathway,
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,,warburg effect,biolink:Pathway,SMP00654
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,3-methylthiofentanyl action pathway,biolink:Pathway,SMP00679
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,alfentanil action pathway,biolink:Pathway,SMP00413
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,alvimopan action pathway,biolink:Pathway,SMP00685
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,anileridine action pathway,biolink:Pathway,SMP00674
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,aromatic l-aminoacid decarboxylase deficiency,biolink:Pathway,SMP00170
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,benzocaine action pathway,biolink:Pathway,SMP00392
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,bupivacaine action pathway,biolink:Pathway,SMP00393
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,buprenorphine action pathway,biolink:Pathway,SMP00684
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,carfentanil action pathway,biolink:Pathway,SMP00414
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,chloroprocaine action pathway,biolink:Pathway,SMP00394
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,citalopram action pathway,biolink:Pathway,SMP00424
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,cocaine action pathway,biolink:Pathway,SMP00395
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,codeine action pathway,biolink:Pathway,SMP00405
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,desipramine action pathway,biolink:Pathway,SMP00423
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,dezocine action pathway,biolink:Pathway,SMP00676
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,dibucaine action pathway,biolink:Pathway,SMP00396
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,dihydromorphine action pathway,biolink:Pathway,SMP00689
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,dimethylthiambutene action pathway,biolink:Pathway,SMP00680
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,diphenoxylate action pathway,biolink:Pathway,SMP00675
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,escitalopram action pathway,biolink:Pathway,SMP00425
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,ethylmorphine action pathway,biolink:Pathway,SMP00681
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,fentanyl action pathway,biolink:Pathway,SMP00415
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,fluoxetine action pathway,biolink:Pathway,SMP00426
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,heroin action pathway,biolink:Pathway,SMP00407
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,hydrocodone action pathway,biolink:Pathway,SMP00411
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,hydromorphone action pathway,biolink:Pathway,SMP00410
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,imipramine action pathway,biolink:Pathway,SMP00422
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,ketobemidone  action pathway,biolink:Pathway,SMP00690
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,levallorphan action pathway,biolink:Pathway,SMP00683
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,levobupivacaine action pathway,biolink:Pathway,SMP00397
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,levomethadyl acetate action action pathway,biolink:Pathway,SMP00677
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,levorphanol action pathway,biolink:Pathway,SMP00673
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,lidocaine (local anaesthetic) action pathway,biolink:Pathway,SMP00398
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,mepivacaine action pathway,biolink:Pathway,SMP00399
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,methadone action pathway,biolink:Pathway,SMP00408
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,methadyl acetate action pathway,biolink:Pathway,SMP00678
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,morphine action pathway,biolink:Pathway,SMP00406
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,nalbuphine action pathway,biolink:Pathway,SMP00691
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,naloxone action pathway,biolink:Pathway,SMP00688
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,naltrexone action pathway,biolink:Pathway,SMP00687
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,nicotine action pathway,biolink:Pathway,SMP00431
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,oxybuprocaine action pathway,biolink:Pathway,SMP00400
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,oxycodone action pathway,biolink:Pathway,SMP00409
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,oxymorphone action pathway,biolink:Pathway,SMP00412
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,pentazocine action pathway,biolink:Pathway,SMP00686
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,prilocaine action pathway,biolink:Pathway,SMP00401
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,procaine action pathway,biolink:Pathway,SMP00402
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,proparacaine action pathway,biolink:Pathway,SMP00403
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,propoxyphene action pathway,biolink:Pathway,SMP00672
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,remifentanil action pathway,biolink:Pathway,SMP00416
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,ropivacaine action pathway,biolink:Pathway,SMP00404
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,sufentanil action pathway,biolink:Pathway,SMP00417
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,tramadol action action pathway,biolink:Pathway,SMP00671
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,tyrosine hydroxylase deficiency,biolink:Pathway,SMP00497
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,,sulfite oxidase deficiency,biolink:Pathway,SMP00532
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,map00920,sulfur metabolism,biolink:Pathway,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,malonic aciduria,biolink:Pathway,SMP00198
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,malonyl-coa decarboxylase deficiency,biolink:Pathway,SMP00502
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,methylmalonic aciduria due to cobalamin-related disorders,biolink:Pathway,SMP00201
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,map00640,propanoate metabolism,biolink:Pathway,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,vitamin k metabolism,biolink:Pathway,SMP00464
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,2-hydroxyglutric aciduria (d and l form),biolink:Pathway,SMP00136
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,2-ketoglutarate dehydrogenase complex deficiency,biolink:Pathway,SMP00549
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,3-phosphoglycerate dehydrogenase deficiency,biolink:Pathway,SMP00721
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,4-hydroxybutyric aciduria/succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00243
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00250,"alanine, aspartate and glutamate metabolism",biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00520,amino sugar metabolism,biolink:Pathway,SMP00045
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,argininemia,biolink:Pathway,SMP00357
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,argininosuccinic aciduria,biolink:Pathway,SMP00003
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,beta-mercaptolactate-cysteine disulfiduria,biolink:Pathway,SMP00499
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,carbamoyl phosphate synthetase deficiency,biolink:Pathway,SMP00002
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00020,citric acid cycle,biolink:Pathway,SMP00057
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,citrullinemia type i,biolink:Pathway,SMP00001
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,congenital lactic acidosis,biolink:Pathway,SMP00546
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00270,cysteine metabolism,biolink:Pathway,SMP00013
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"cystinosis, ocular nonnephropathic",biolink:Pathway,SMP00722
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,dihydropyrimidine dehydrogenase deficiency (dhpd),biolink:Pathway,SMP00179
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,dimethylglycine dehydrogenase deficiency,biolink:Pathway,SMP00242
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,dimethylglycine dehydrogenase deficiency,biolink:Pathway,SMP00484
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,fanconi-bickel syndrome,biolink:Pathway,SMP00572
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"fructose-1,6-diphosphatase deficiency",biolink:Pathway,SMP00562
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,fumarase deficiency,biolink:Pathway,SMP00547
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"g(m2)-gangliosidosis: variant b, tay-sachs disease",biolink:Pathway,SMP00534
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,glucose-alanine cycle,biolink:Pathway,SMP00127
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00250,glutamate metabolism,biolink:Pathway,SMP00072
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,glutaminolysis and cancer,biolink:Pathway,SMP02298
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00260,"glycine, serine and threonine metabolism",biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,glycogen storage disease type 1a (gsd1a) or von gierke disease,biolink:Pathway,SMP00374
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"glycogenosis, type ia. von gierke disease",biolink:Pathway,SMP00581
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"glycogenosis, type ib",biolink:Pathway,SMP00573
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"glycogenosis, type ic",biolink:Pathway,SMP00574
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"glycogenosis, type vii. tarui disease",biolink:Pathway,SMP00531
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00010,glycolysis / gluconeogenesis,biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00010,glycolysis / gluconeogenesis,biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,homocarnosinosis,biolink:Pathway,SMP00385
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"hyperglycinemia, non-ketotic",biolink:Pathway,SMP00485
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,hyperinsulinism-hyperammonemia syndrome,biolink:Pathway,SMP00339
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,lactic acidemia,biolink:Pathway,SMP00313
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,mitochondrial complex ii deficiency,biolink:Pathway,SMP00548
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00910,nitrogen metabolism,biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,non ketotic hyperglycinemia,biolink:Pathway,SMP00223
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,ornithine transcarbamylase deficiency (otc deficiency),biolink:Pathway,SMP00205
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,phosphoenolpyruvate carboxykinase deficiency 1 (pepck1),biolink:Pathway,SMP00560
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,primary hyperoxaluria type i,biolink:Pathway,SMP00352
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvaldehyde degradation,biolink:Pathway,SMP00459
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate carboxylase deficiency,biolink:Pathway,SMP00350
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e2),biolink:Pathway,SMP00551
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e3),biolink:Pathway,SMP00550
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,salla disease/infantile sialic acid storage disease,biolink:Pathway,SMP00240
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,sarcosinemia,biolink:Pathway,SMP00244
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,sialuria or french type sialuria,biolink:Pathway,SMP00216
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00567
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,tay-sachs disease,biolink:Pathway,SMP00390
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,the oncogenic action of 2-hydroxyglutarate,biolink:Pathway,SMP02291
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,the oncogenic action of d-2-hydroxyglutarate in  hydroxygluaricaciduria ,biolink:Pathway,SMP02359
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,the oncogenic action of fumarate,biolink:Pathway,SMP02295
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,the oncogenic action of l-2-hydroxyglutarate in  hydroxygluaricaciduria,biolink:Pathway,SMP02358
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,the oncogenic action of succinate,biolink:Pathway,SMP02292
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,transfer of acetyl groups into mitochondria,biolink:Pathway,SMP00466
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,triosephosphate isomerase,biolink:Pathway,SMP00563
+23,LCTONWCANYUPML-UHFFFAOYSA-N,map00330,urea cycle,biolink:Pathway,SMP00059
+23,LCTONWCANYUPML-UHFFFAOYSA-N,,warburg effect,biolink:Pathway,SMP00654
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,2-hydroxyglutric aciduria (d and l form),biolink:Pathway,SMP00136
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,2-ketoglutarate dehydrogenase complex deficiency,biolink:Pathway,SMP00549
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,2-methyl-3-hydroxybutryl coa dehydrogenase deficiency,biolink:Pathway,SMP00137
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-hydroxy-3-methylglutaryl-coa lyase deficiency,biolink:Pathway,SMP00138
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-hydroxyisobutyric acid dehydrogenase deficiency,biolink:Pathway,SMP00521
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-hydroxyisobutyric aciduria,biolink:Pathway,SMP00522
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-methylcrotonyl coa carboxylase deficiency type i,biolink:Pathway,SMP00237
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-methylglutaconic aciduria type i,biolink:Pathway,SMP00139
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-methylglutaconic aciduria type iii,biolink:Pathway,SMP00140
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,3-methylglutaconic aciduria type iv,biolink:Pathway,SMP00141
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,4-hydroxybutyric aciduria/succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00243
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00330,arginine and proline metabolism,biolink:Pathway,
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,arginine: glycine amidinotransferase deficiency (agat deficiency),biolink:Pathway,SMP00362
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,beta-ketothiolase deficiency,biolink:Pathway,SMP00173
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00650,butyrate metabolism,biolink:Pathway,SMP00073
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,carnitine synthesis,biolink:Pathway,SMP00465
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00020,citric acid cycle,biolink:Pathway,SMP00057
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,congenital lactic acidosis,biolink:Pathway,SMP00546
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,"creatine deficiency, guanidinoacetate methyltransferase deficiency",biolink:Pathway,SMP00504
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,fumarase deficiency,biolink:Pathway,SMP00547
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00250,glutamate metabolism,biolink:Pathway,SMP00072
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,glutaminolysis and cancer,biolink:Pathway,SMP02298
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,guanidinoacetate methyltransferase deficiency (gamt deficiency),biolink:Pathway,SMP00188
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,homocarnosinosis,biolink:Pathway,SMP00385
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,hyperinsulinism-hyperammonemia syndrome,biolink:Pathway,SMP00339
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,hyperornithinemia with gyrate atrophy (hoga),biolink:Pathway,SMP00505
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,hyperornithinemia-hyperammonemia-homocitrullinuria [hhh-syndrome],biolink:Pathway,SMP00506
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,hyperprolinemia type i,biolink:Pathway,SMP00361
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,hyperprolinemia type ii,biolink:Pathway,SMP00360
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,isobutyryl-coa dehydrogenase deficiency,biolink:Pathway,SMP00523
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,isovaleric acidemia,biolink:Pathway,SMP00524
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,isovaleric aciduria,biolink:Pathway,SMP00238
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00072,ketone body metabolism,biolink:Pathway,SMP00071
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,l-arginine:glycine amidinotransferase deficiency,biolink:Pathway,SMP00507
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,maple syrup urine disease,biolink:Pathway,SMP00199
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,methylmalonate semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00384
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,methylmalonic aciduria,biolink:Pathway,SMP00200
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,mitochondrial complex ii deficiency,biolink:Pathway,SMP00548
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,ornithine aminotransferase deficiency (oat deficiency),biolink:Pathway,SMP00363
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,oxidation of branched chain fatty acids,biolink:Pathway,SMP00030
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00190,oxidative phosphorylation,biolink:Pathway,
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,phytanic acid peroxisomal oxidation,biolink:Pathway,SMP00450
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,prolidase deficiency (pd),biolink:Pathway,SMP00207
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,prolinemia type ii,biolink:Pathway,SMP00208
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,propionic acidemia,biolink:Pathway,SMP00236
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e2),biolink:Pathway,SMP00551
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,pyruvate dehydrogenase deficiency (e3),biolink:Pathway,SMP00550
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,refsum disease,biolink:Pathway,SMP00451
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,succinic semialdehyde dehydrogenase deficiency,biolink:Pathway,SMP00567
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,succinyl coa: 3-ketoacid coa transferase deficiency,biolink:Pathway,SMP00569
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,the oncogenic action of 2-hydroxyglutarate,biolink:Pathway,SMP02291
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,the oncogenic action of d-2-hydroxyglutarate in  hydroxygluaricaciduria ,biolink:Pathway,SMP02359
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,the oncogenic action of fumarate,biolink:Pathway,SMP02295
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,the oncogenic action of l-2-hydroxyglutarate in  hydroxygluaricaciduria,biolink:Pathway,SMP02358
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,the oncogenic action of succinate,biolink:Pathway,SMP02292
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,map00280,"valine, leucine and isoleucine degradation",biolink:Pathway,
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,warburg effect,biolink:Pathway,SMP00654
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,3-methylthiofentanyl action pathway,biolink:Pathway,SMP00679
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,alfentanil action pathway,biolink:Pathway,SMP00413
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,alvimopan action pathway,biolink:Pathway,SMP00685
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,anileridine action pathway,biolink:Pathway,SMP00674
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,benzocaine action pathway,biolink:Pathway,SMP00392
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,bupivacaine action pathway,biolink:Pathway,SMP00393
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,buprenorphine action pathway,biolink:Pathway,SMP00684
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,carfentanil action pathway,biolink:Pathway,SMP00414
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,chloroprocaine action pathway,biolink:Pathway,SMP00394
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,citalopram action pathway,biolink:Pathway,SMP00424
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,cocaine action pathway,biolink:Pathway,SMP00395
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,codeine action pathway,biolink:Pathway,SMP00405
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,desipramine action pathway,biolink:Pathway,SMP00423
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,dezocine action pathway,biolink:Pathway,SMP00676
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,dibucaine action pathway,biolink:Pathway,SMP00396
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,dihydromorphine action pathway,biolink:Pathway,SMP00689
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,dimethylthiambutene action pathway,biolink:Pathway,SMP00680
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,diphenoxylate action pathway,biolink:Pathway,SMP00675
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,escitalopram action pathway,biolink:Pathway,SMP00425
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,ethylmorphine action pathway,biolink:Pathway,SMP00681
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,excitatory neural signalling through 5-htr 4 and serotonin,biolink:Pathway,SMP00309
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,excitatory neural signalling through 5-htr 6 and serotonin,biolink:Pathway,SMP00312
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,excitatory neural signalling through 5-htr 7 and serotonin,biolink:Pathway,SMP00311
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,fentanyl action pathway,biolink:Pathway,SMP00415
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,fluoxetine action pathway,biolink:Pathway,SMP00426
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,heroin action pathway,biolink:Pathway,SMP00407
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,hydrocodone action pathway,biolink:Pathway,SMP00411
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,hydromorphone action pathway,biolink:Pathway,SMP00410
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,imipramine action pathway,biolink:Pathway,SMP00422
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,ketobemidone  action pathway,biolink:Pathway,SMP00690
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,levallorphan action pathway,biolink:Pathway,SMP00683
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,levobupivacaine action pathway,biolink:Pathway,SMP00397
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,levomethadyl acetate action action pathway,biolink:Pathway,SMP00677
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,levorphanol action pathway,biolink:Pathway,SMP00673
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,lidocaine (local anaesthetic) action pathway,biolink:Pathway,SMP00398
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,mepivacaine action pathway,biolink:Pathway,SMP00399
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,methadone action pathway,biolink:Pathway,SMP00408
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,methadyl acetate action pathway,biolink:Pathway,SMP00678
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,morphine action pathway,biolink:Pathway,SMP00406
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,nalbuphine action pathway,biolink:Pathway,SMP00691
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,naloxone action pathway,biolink:Pathway,SMP00688
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,naltrexone action pathway,biolink:Pathway,SMP00687
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,nicotine action pathway,biolink:Pathway,SMP00431
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,oxybuprocaine action pathway,biolink:Pathway,SMP00400
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,oxycodone action pathway,biolink:Pathway,SMP00409
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,oxymorphone action pathway,biolink:Pathway,SMP00412
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,pentazocine action pathway,biolink:Pathway,SMP00686
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,prilocaine action pathway,biolink:Pathway,SMP00401
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,procaine action pathway,biolink:Pathway,SMP00402
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,proparacaine action pathway,biolink:Pathway,SMP00403
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,propoxyphene action pathway,biolink:Pathway,SMP00672
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,remifentanil action pathway,biolink:Pathway,SMP00416
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,ropivacaine action pathway,biolink:Pathway,SMP00404
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,sufentanil action pathway,biolink:Pathway,SMP00417
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,,tramadol action action pathway,biolink:Pathway,SMP00671
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,map00380,tryptophan metabolism,biolink:Pathway,
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+27,DZAIOXUZHHTJKN-UHFFFAOYSA-N,,,,
+28,QVWAEZJXDYOKEH-UHFFFAOYSA-N,,,,
+29,MUCMKTPAZLSKTL-NSHDSACASA-N,,,,
+30,BITYXLXUCSKTJS-ZETCQYMHSA-N,,,,
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,,,,
+32,XFTRTWQBIOMVPK-UHFFFAOYSA-N,,,,
+33,FVMDYYGIDFPZAX-UHFFFAOYSA-N,,,,
+34,WNLRTRBMVRJNCN-UHFFFAOYSA-N,,,,
+35,POJWUDADGALRAB-UHFFFAOYSA-N,,,,
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,,,,
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,,,,
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,map00130,ubiquinone biosynthesis,biolink:Pathway,SMP00065
+39,QYIXCDOBOSTCEI-NWKZBHTNSA-N,,,,
+40,LQXVFWRQNMEDEE-UOWFLXDJSA-N,,,,
+41,SRBFZHDQGSBBOR-KLVWXMOXSA-N,,,,
+42,JFCQEDHGNNZCLN-UHFFFAOYSA-N,,,,
+43,XGILAAMKEQUXLS-JTQLQIEISA-N,,,,
+44,BXFFHSIDQOFMLE-UHFFFAOYSA-N,,,,
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,,malonic aciduria,biolink:Pathway,SMP00198
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,,malonyl-coa decarboxylase deficiency,biolink:Pathway,SMP00502
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,,methylmalonic aciduria due to cobalamin-related disorders,biolink:Pathway,SMP00201
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,map00640,propanoate metabolism,biolink:Pathway,
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,map00360,phenylalanine and tyrosine metabolism,biolink:Pathway,SMP00008
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,phenylketonuria,biolink:Pathway,SMP00206
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,tyrosinemia type 2 (or richner-hanhart syndrome),biolink:Pathway,SMP00369
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,tyrosinemia type 3 (tyro3),biolink:Pathway,SMP00370
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,,,,
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,,,,
+49,PLVPPLCLBIEYEA-AATRIKPKSA-N,,,,
+50,SIKJAQJRHWYJAI-UHFFFAOYSA-N,,,,
+51,LVRFTAZAXQPQHI-YFKPBYRVSA-N,,,,
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,,,,
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,map00380,tryptophan metabolism,biolink:Pathway,
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,,,,
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,,
+56,ISYWECDDZWTKFF-UHFFFAOYSA-N,,,,
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,,,,
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,,sulfite oxidase deficiency,biolink:Pathway,SMP00532
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,map00920,sulfur metabolism,biolink:Pathway,
+59,SHZGCJCMOBCMKK-JFNONXLTSA-N,,,,
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,,,,
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,acrivastine h1-antihistamine action,biolink:Pathway,SMP59881
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,alcaftadine h1-antihistamine action,biolink:Pathway,SMP62881
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,alimemazine h1-antihistamine action,biolink:Pathway,SMP59689
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,antazoline h1-antihistamine action,biolink:Pathway,SMP57584
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,astemizole h1-antihistamine action,biolink:Pathway,SMP59897
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,azatadine h1-antihistamine action,biolink:Pathway,SMP59865
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,azelastine h1-antihistamine action,biolink:Pathway,SMP60741
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,bamipine h1-antihistamine action,biolink:Pathway,SMP62882
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,bepotastine h1-antihistamine action,biolink:Pathway,SMP60058
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,betahistine h1-antihistamine action,biolink:Pathway,SMP60744
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,betazole action pathway,biolink:Pathway,SMP00736
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,bilastine h1-antihistamine action,biolink:Pathway,SMP60170
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,bromodiphenhydramine h1-antihistamine action,biolink:Pathway,SMP58813
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,brompheniramine h1-antihistamine action,biolink:Pathway,SMP57579
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,buclizine h1-antihistamine action,biolink:Pathway,SMP58964
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,carbinoxamine h1-antihistamine action,biolink:Pathway,SMP58797
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,cetirizine h1-antihistamine action,biolink:Pathway,SMP59058
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,chlorcyclizine h1-antihistamine action,biolink:Pathway,SMP58931
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,chloropyramine h1-antihistamine action,biolink:Pathway,SMP57585
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,chlorphenamine h1-antihistamine action,biolink:Pathway,SMP56661
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,chlorphenoxamine h1-antihistamine action,biolink:Pathway,SMP58903
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,cimetidine action pathway,biolink:Pathway,SMP00232
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,cinnarizine h1-antihistamine action,biolink:Pathway,SMP59110
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,clemastine h1-antihistamine action,biolink:Pathway,SMP58891
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,clocinizine h1-antihistamine action,biolink:Pathway,SMP62788
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,cyclizine h1-antihistamine action,biolink:Pathway,SMP58923
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,cyproheptadine h1-antihistamine action,biolink:Pathway,SMP59694
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,deptropine h1-antihistamine action,biolink:Pathway,SMP62883
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,desloratadine h1-antihistamine action,biolink:Pathway,SMP60201
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,dexbrompheniramine h1-antihistamine action,biolink:Pathway,SMP57580
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,dexchlorpheniramine h1-antihistamine action,biolink:Pathway,SMP56811
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,dimetindene h1-antihistamine action,biolink:Pathway,SMP57582
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,diphenhydramine h1-antihistamine action,biolink:Pathway,SMP58785
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,diphenylpyraline h1-antihistamine action,biolink:Pathway,SMP58908
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,doxepin h1-antihistamine action,biolink:Pathway,SMP59872
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,doxylamine h1-antihistamine action,biolink:Pathway,SMP58803
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,ebastine h1-antihistamine action,biolink:Pathway,SMP60204
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,embramine h1-antihistamine action,biolink:Pathway,SMP62622
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,emedastine h1-antihistamine action,biolink:Pathway,SMP61040
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,epinastine h1-antihistamine action,biolink:Pathway,SMP61191
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,esomeprazole action pathway,biolink:Pathway,SMP00225
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,famotidine action pathway,biolink:Pathway,SMP00231
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,fc epsilon receptor i signaling in mast cells,biolink:Pathway,SMP00358
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,fenethazine h1-antihistamine action,biolink:Pathway,SMP59707
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,fexofenadine h1-antihistamine action,biolink:Pathway,SMP60218
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,flunarizine h1-antihistamine action,biolink:Pathway,SMP61047
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,gastric acid production,biolink:Pathway,SMP00589
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,histamine h1 receptor activation,biolink:Pathway,SMP53896
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,histamine h1 receptor activation,biolink:Pathway,SMP63452
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,histapyrrodine h1-antihistamine action,biolink:Pathway,SMP58732
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,map00340,histidine metabolism,biolink:Pathway,SMP00044
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,histidinemia,biolink:Pathway,SMP00191
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,homochlorcyclizine h1-antihistamine action,biolink:Pathway,SMP62795
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,hydroxyethylpromethazine h1-antihistamine action,biolink:Pathway,SMP59710
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,hydroxyzine h1-antihistamine action,biolink:Pathway,SMP58936
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,intracellular signalling through histamine h2 receptor and histamine,biolink:Pathway,SMP00335
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,isothipendyl h1-antihistamine action,biolink:Pathway,SMP59716
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,ketotifen h1-antihistamine action,biolink:Pathway,SMP59868
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,lafutidine h2-antihistamine action,biolink:Pathway,SMP51038
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,lansoprazole action pathway,biolink:Pathway,SMP00227
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,latrepirdine h1-antihistamine action,biolink:Pathway,SMP62623
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,levocabastine h1-antihistamine action,biolink:Pathway,SMP60224
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,levocetirizine h1-antihistamine action,biolink:Pathway,SMP59114
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,loratadine h1-antihistamine action,biolink:Pathway,SMP60195
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,mebhydrolin h1-antihistamine action,biolink:Pathway,SMP61052
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,meclizine h1-antihistamine action,biolink:Pathway,SMP58956
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,mepyramine h1-antihistamine action,biolink:Pathway,SMP57583
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,mequitazine h1-antihistamine action,biolink:Pathway,SMP59720
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,methapyrilene h1-antihistamine action,biolink:Pathway,SMP58741
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,methdilazine h1-antihistamine action,biolink:Pathway,SMP59730
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,metiamide action pathway,biolink:Pathway,SMP00735
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,mirtazapine h1-antihistamine action,biolink:Pathway,SMP62885
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,mizolastine h1-antihistamine action,biolink:Pathway,SMP60230
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,nizatidine action pathway,biolink:Pathway,SMP00233
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,olopatadine h1-antihistamine action,biolink:Pathway,SMP60740
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,omeprazole action pathway,biolink:Pathway,SMP00226
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,orphenadrine h1-antihistamine action,biolink:Pathway,SMP58808
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,oxatomide h1-antihistamine action,biolink:Pathway,SMP59044
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,oxomemazine h1-antihistamine action,biolink:Pathway,SMP59738
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,pantoprazole action pathway,biolink:Pathway,SMP00228
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,phenbenzamine h1-antihistamine action,biolink:Pathway,SMP59702
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,phenindamine h1-antihistamine action,biolink:Pathway,SMP61190
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,pheniramine h1-antihistamine action,biolink:Pathway,SMP56662
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,phenyltoloxamine h1-antihistamine action,biolink:Pathway,SMP58916
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,pimethixene h1-antihistamine action,biolink:Pathway,SMP62886
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,pirenzepine action pathway,biolink:Pathway,SMP00246
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,promethazine h1-antihistamine action,biolink:Pathway,SMP59211
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,propiomazine h1-antihistamine action,biolink:Pathway,SMP62625
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,pyrrobutamine h1-antihistamine action,biolink:Pathway,SMP62887
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,quetiapine h1-antihistamine action,biolink:Pathway,SMP62884
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,quifenadine h1-antihistamine action,biolink:Pathway,SMP60743
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,rabeprazole action pathway,biolink:Pathway,SMP00229
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,ranitidine action pathway,biolink:Pathway,SMP00230
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,roxatidine acetate action pathway,biolink:Pathway,SMP00734
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,rupatadine h1-antihistamine action,biolink:Pathway,SMP60235
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,talastine h1-antihistamine action,biolink:Pathway,SMP57586
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,temelastine h1-antihistamine action,biolink:Pathway,SMP62880
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,terfenadine h1-antihistamine action,biolink:Pathway,SMP60208
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,thenalidine h1-antihistamine action,biolink:Pathway,SMP62894
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,thenyldiamine h1-antihistamine action,biolink:Pathway,SMP62624
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,thiazinamium h1-antihistamine action,biolink:Pathway,SMP60742
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,thonzylamine h1-antihistamine action,biolink:Pathway,SMP58769
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,tolpropamine h1-antihistamine action,biolink:Pathway,SMP62621
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,tripelennamine h1-antihistamine action,biolink:Pathway,SMP57587
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,triprolidine h1-antihistamine action,biolink:Pathway,SMP57581
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,tritoqualine h1-antihistamine action,biolink:Pathway,SMP62895
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,betazole action pathway,biolink:Pathway,SMP00736
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,cimetidine action pathway,biolink:Pathway,SMP00232
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,esomeprazole action pathway,biolink:Pathway,SMP00225
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,famotidine action pathway,biolink:Pathway,SMP00231
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,gastric acid production,biolink:Pathway,SMP00589
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,lafutidine h2-antihistamine action,biolink:Pathway,SMP51038
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,lansoprazole action pathway,biolink:Pathway,SMP00227
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,metiamide action pathway,biolink:Pathway,SMP00735
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,nizatidine action pathway,biolink:Pathway,SMP00233
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,omeprazole action pathway,biolink:Pathway,SMP00226
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,pantoprazole action pathway,biolink:Pathway,SMP00228
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,map00564,phospholipid biosynthesis,biolink:Pathway,SMP00025
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,pirenzepine action pathway,biolink:Pathway,SMP00246
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,rabeprazole action pathway,biolink:Pathway,SMP00229
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,ranitidine action pathway,biolink:Pathway,SMP00230
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,,roxatidine acetate action pathway,biolink:Pathway,SMP00734
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,27-hydroxylase deficiency,biolink:Pathway,SMP00720
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,cerebrotendinous xanthomatosis (ctx),biolink:Pathway,SMP00315
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,congenital bile acid synthesis defect type ii,biolink:Pathway,SMP00314
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,congenital bile acid synthesis defect type iii,biolink:Pathway,SMP00318
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,familial hypercholanemia (fhca),biolink:Pathway,SMP00317
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,map00120,primary bile acid biosynthesis,biolink:Pathway,
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,,zellweger syndrome,biolink:Pathway,SMP00316
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,,,,
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,,,,
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,,
+67,KSEBMYQBYZTDHS-HWKANZROSA-N,,,,
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,,,,
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+70,HDTRYLNUVZCQOY-LIZSDCNHSA-N,,trehalose degradation,biolink:Pathway,SMP00467
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,ethanol degradation,biolink:Pathway,SMP00449
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,glucose-6-phosphate dehydrogenase deficiency,biolink:Pathway,SMP00518
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,pentose phosphate pathway,biolink:Pathway,
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,ribose-5-phosphate isomerase deficiency,biolink:Pathway,SMP00519
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,,transaldolase deficiency,biolink:Pathway,SMP00520
+72,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,,,,
+73,OLVVOVIFTBSBBH-KVTDHHQDSA-N,,,,
+74,LABSPYBHMPDTEL-LIZSDCNHSA-N,,,,
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,map00520,amino sugar metabolism,biolink:Pathway,SMP00045
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,,"g(m2)-gangliosidosis: variant b, tay-sachs disease",biolink:Pathway,SMP00534
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,,salla disease/infantile sialic acid storage disease,biolink:Pathway,SMP00240
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,,sialuria or french type sialuria,biolink:Pathway,SMP00216
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,,tay-sachs disease,biolink:Pathway,SMP00390
+76,XTOKIEIBKARFSZ-LURJTMIESA-N,,,,
+77,VWXQFHJBQHTHMK-LURJTMIESA-N,,,,
+78,AJPADPZSRRUGHI-RFZPGFLSSA-N,,,,
+79,LKDRXBCSQODPBY-BGPJRJDNSA-N,,,,
+80,QNAYBMKLOCPYGJ-UWTATZPHSA-N,,,,
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,pyruvaldehyde degradation,biolink:Pathway,SMP00459
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,alkaptonuria,biolink:Pathway,SMP00169
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,disulfiram action pathway,biolink:Pathway,SMP00429
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,dopamine beta-hydroxylase deficiency,biolink:Pathway,SMP00498
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,hawkinsinuria,biolink:Pathway,SMP00190
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,monoamine oxidase-a deficiency (mao-a),biolink:Pathway,SMP00533
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,tyrosinemia type i,biolink:Pathway,SMP00218
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,,"tyrosinemia, transient, of the newborn",biolink:Pathway,SMP00494
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,acute intermittent porphyria,biolink:Pathway,SMP00344
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,carnitine synthesis,biolink:Pathway,SMP00465
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,clomipramine metabolism pathway,biolink:Pathway,SMP00639
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,congenital erythropoietic porphyria (cep) or gunther disease,biolink:Pathway,SMP00345
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,degradation of superoxides,biolink:Pathway,SMP00468
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,ethanol degradation,biolink:Pathway,SMP00449
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,hereditary coproporphyria (hcp),biolink:Pathway,SMP00342
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,homocysteine degradation,biolink:Pathway,SMP00455
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,leigh syndrome,biolink:Pathway,SMP00196
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,malonic aciduria,biolink:Pathway,SMP00198
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,malonyl-coa decarboxylase deficiency,biolink:Pathway,SMP00502
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,methylmalonic aciduria due to cobalamin-related disorders,biolink:Pathway,SMP00201
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,mitochondrial beta-oxidation of long chain saturated fatty acids,biolink:Pathway,SMP00482
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,mitochondrial beta-oxidation of medium chain saturated fatty acids,biolink:Pathway,SMP00481
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,mitochondrial beta-oxidation of short chain saturated fatty acids,biolink:Pathway,SMP00480
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,omeprazole action pathway,biolink:Pathway,SMP00226
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,omeprazole metabolism pathway,biolink:Pathway,SMP00613
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,map00190,oxidative phosphorylation,biolink:Pathway,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pantoprazole action pathway,biolink:Pathway,SMP00228
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pantoprazole metabolism pathway,biolink:Pathway,SMP00615
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,plasmalogen synthesis,biolink:Pathway,SMP00479
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,porphyria variegata (pv),biolink:Pathway,SMP00346
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,map00860,porphyrin metabolism,biolink:Pathway,SMP00024
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,"primary hyperoxaluria ii, ph2",biolink:Pathway,SMP00558
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,map00640,propanoate metabolism,biolink:Pathway,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pyruvaldehyde degradation,biolink:Pathway,SMP00459
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pyruvate decarboxylase e1 component deficiency (pdhe1 deficiency),biolink:Pathway,SMP00334
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pyruvate dehydrogenase complex deficiency,biolink:Pathway,SMP00212
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,pyruvate kinase deficiency,biolink:Pathway,SMP00559
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,map00620,pyruvate metabolism,biolink:Pathway,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,rabeprazole action pathway,biolink:Pathway,SMP00229
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,rabeprazole metabolism pathway,biolink:Pathway,SMP00616
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,threonine and 2-oxobutanoate degradation,biolink:Pathway,SMP00452
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,transfer of acetyl groups into mitochondria,biolink:Pathway,SMP00466
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,trehalose degradation,biolink:Pathway,SMP00467
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,map00350,tyrosine metabolism,biolink:Pathway,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,warburg effect,biolink:Pathway,SMP00654
+84,GMKMEZVLHJARHF-WHFBIAKZSA-N,,,,
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,,,,
+86,ALYNCZNDIQEVRV-UHFFFAOYSA-N,,,,
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,cystathionine beta-synthase deficiency,biolink:Pathway,SMP00177
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,glycine n-methyltransferase deficiency,biolink:Pathway,SMP00222
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,"homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cblg complementation type",biolink:Pathway,SMP00570
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,hypermethioninemia,biolink:Pathway,SMP00341
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,methionine adenosyltransferase deficiency,biolink:Pathway,SMP00221
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,map00270,methionine metabolism,biolink:Pathway,SMP00033
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,methylenetetrahydrofolate reductase deficiency (mthfrd),biolink:Pathway,SMP00340
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,s-adenosylhomocysteine (sah) hydrolase deficiency,biolink:Pathway,SMP00214
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,spermidine and spermine biosynthesis,biolink:Pathway,SMP00445
+88,GACTWZZMVMUKNG-KVTDHHQDSA-N,,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,map00072,ketone body metabolism,biolink:Pathway,SMP00071
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,succinyl coa: 3-ketoacid coa transferase deficiency,biolink:Pathway,SMP00569
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,,,,
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,,,,
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,,,,
+93,QAIPRVGONGVQAS-DUXPYHPUSA-N,,,,
+94,HCFRWBBJISAZNK-UHFFFAOYSA-N,,,,
+95,RLSSMJSEOOYNOY-UHFFFAOYSA-N,,,,
+96,QWVGKYWNOKOFNN-UHFFFAOYSA-N,,,,
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,,,,
+98,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,,,,
+99,LVHBHZANLOWSRM-UHFFFAOYSA-N,,,,
+100,JTEDVYBZBROSJT-UHFFFAOYSA-N,,,,
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,,,,
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,,,,
+103,VEVJTUNLALKRNO-TYHXJLICSA-N,,,,
+104,GOLXRNDWAUTYKT-UHFFFAOYSA-N,,,,
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,,,,
+106,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,,,,
+107,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,,,,
+108,IJFXRHURBJZNAO-UHFFFAOYSA-N,,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,,
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,,
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,,,,
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,,beta-mercaptolactate-cysteine disulfiduria,biolink:Pathway,SMP00499
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,map00270,cysteine metabolism,biolink:Pathway,SMP00013
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,,"cystinosis, ocular nonnephropathic",biolink:Pathway,SMP00722
+115,VGEREEWJJVICBM-UHFFFAOYSA-N,,,,
+116,WHUUTDBJXJRKMK-GSVOUGTGSA-N,,,,
+117,JJMDCOVWQOJGCB-UHFFFAOYSA-N,,,,
+118,MBBOMCVGYCRMEA-UHFFFAOYSA-N,,,,
+119,RAJWOBJTTGJROA-QJISAEMRSA-N,,androstenedione metabolism,biolink:Pathway,SMP30406
+120,SXDXRJZUAJBNFL-XKSSXDPKSA-N,map00740,riboflavin metabolism,biolink:Pathway,SMP00070
+121,RQRINYISXYAZKL-RPDRRWSUSA-N,,,,
+122,BEOUGZFCUMNGOU-UHFFFAOYSA-N,,,,
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,map00052,galactose metabolism,biolink:Pathway,SMP00043
+124,YCCILVSKPBXVIP-UHFFFAOYSA-N,,,,
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,,,,
+126,CHTHALBTIRVDBM-UHFFFAOYSA-N,,,,
+127,HHVIBTZHLRERCL-UHFFFAOYSA-N,,,,
+128,JUUBCHWRXWPFFH-UHFFFAOYSA-N,,,,
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,,,,
+130,PHTQWCKDNZKARW-UHFFFAOYSA-N,,,,
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,,,,
+132,TXXHDPDFNKHHGW-CCAGOZQPSA-N,,,,
+133,JFLIEFSWGNOPJJ-JTQLQIEISA-N,map00360,phenylalanine metabolism,biolink:Pathway,
+134,ZOSQFDVXNQFKBY-CGAXJHMRSA-N,,,,
+135,NUZLRKBHOBPTQV-ARJAWSKDSA-N,,,,
+136,WFPZSXYXPSUOPY-ROYWQJLOSA-N,,,,
+137,ZKLLSNQJRLJIGT-OTWZMJIISA-N,,,,
+138,CJJCPDZKQKUXSS-ARQDHWQXSA-N,,,,
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,,,,
+140,IZSRJDGCGRAUAR-UHFFFAOYSA-N,,,,
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,,,,
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,,,,
+143,WQZGKKKJIJFFOK-QRXFDPRISA-N,,,,
+144,GZQKNULLWNGMCW-PWQABINMSA-N,,,,
+145,BFVQTKQTUCQRPI-YYEZTRBPSA-N,,,,
+146,AAXCQFOXUJMCCW-PETQGJDISA-N,,,,
+147,QCDYQQDYXPDABM-UHFFFAOYSA-N,,,,
+148,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,,,,
+149,OLNJUISKUQQNIM-UHFFFAOYSA-N,,,,
+150,KTHADMDGDNYQRX-UHFFFAOYSA-N,,,,
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,,,,
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,,,,
+153,RWRDLPDLKQPQOW-UHFFFAOYSA-N,,,,
+154,RSTKLPZEZYGQPY-UHFFFAOYSA-N,,,,
+155,XVARCVCWNFACQC-RKQHYHRCSA-N,,,,
+156,TXXHDPDFNKHHGW-UHFFFAOYSA-N,,,,

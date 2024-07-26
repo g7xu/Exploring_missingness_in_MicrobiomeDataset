@@ -1,0 +1,626 @@
+,xrefs_inchikey,associated_microbes_lineage,associated_microbes_rank,associated_microbes_scientific_name,associated_microbes_type,associated_microbes_taxid,associated_microbes_parent_taxid
+0,WHBMMWSBFZVSSR-GSVOUGTGSA-N,,,alcaligenes eutrophus,,,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",species,acinetobacter baumannii,biolink:Bacterium,470.0,909768.0
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,,clostridium difficile,,,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,,clostridium lituseburense,,,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,,clostridium propionicum,,,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"[99675, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium putrefaciens,biolink:Bacterium,99675.0,1485.0
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,,,clostridium stricklandii,,,
+1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"[1550, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium subterminale,biolink:Bacterium,1550.0,1485.0
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,"[207244, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,anaerostipes,biolink:Bacterium,207244.0,186803.0
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,eubacterium,biolink:Bacterium,1730.0,186806.0
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,"[841, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,roseburia,biolink:Bacterium,841.0,186803.0
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,"[853, 216851, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,faecalibacterium prausnitzii,biolink:Bacterium,853.0,216851.0
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,,,coprococcus comes ,,,
+2,FERIUCNNQQJTOY-UHFFFAOYSA-N,,,coprococcus eutactus ,,,
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroidetes bacterium hgw-bacteroidetes-13,biolink:Bacterium,2013681.0,37452.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[838, 171552, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",genus,prevotella,biolink:Bacterium,838.0,171552.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,ruminococcus,biolink:Bacterium,1263.0,216572.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,streptococcus sp. 'group b',biolink:Bacterium,1319.0,2608887.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,staphylococcus saprophyticus,biolink:Bacterium,29385.0,1279.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus mirabilis,biolink:Bacterium,584.0,583.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,,citrobacter frundii,,,
+3,QTBSBXVTEAMEQO-UHFFFAOYSA-N,,,akkermansia muciniphilia,,,
+4,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",species,ketogulonicigenium vulgare,biolink:Bacterium,92945.0,92944.0
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,"[1245, 1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,leuconostoc mesenteroides,biolink:Bacterium,1245.0,1243.0
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,"[204038, 204037, 1903410, 91347, 1236, 1224, 2, 131567, 1]",species,dickeya dadantii,biolink:Bacterium,204038.0,204037.0
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,,,erwinia chrysanthemi,,,
+5,DLRVVLDZNNYCBX-CQHUIXDMSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+6,UCTWMZQNUQWSLP-VIFPVBQESA-N,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,bacillus,biolink:Bacterium,1386.0,186817.0
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,bacillus,biolink:Bacterium,1386.0,186817.0
+7,VYFYYTLLBUKUHU-UHFFFAOYSA-N,"[2985502, 433515, 7049, 71193, 41087, 41084, 7041, 33392, 33340, 7496, 85512, 50557, 6960, 197562, 197563, 6656, 88770, 1206794, 33317, 33213, 6072, 33208, 33154, 2759, 131567, 1]",genus,serratia,biolink:OrganismalEntity,2985502.0,433515.0
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,"[1269, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",genus,micrococcus,biolink:Bacterium,1269.0,1268.0
+8,ROSDSFDQCJNGOL-UHFFFAOYSA-N,"[1665, 1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",species,arthrobacter globiformis,biolink:Bacterium,1665.0,1663.0
+9,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,,,hansenula polymorpha,,,
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+10,BTCSSZJGUNDROE-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[434, 433, 204441, 28211, 1224, 2, 131567, 1]",genus,acetobacter,biolink:Bacterium,434.0,433.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[1829, 1827, 85025, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,rhodococcus rhodochrous,biolink:Bacterium,1829.0,1827.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[178606, 261386, 179, 189779, 189778, 203693, 40117, 2, 131567, 1]",species,leptospirillum ferriphilum,biolink:Bacterium,178606.0,261386.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,,,gluconobacter dioxyacetonicus,,,
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,,,gluconobacter industrius,,,
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,,,gluconobacter suboxydans,,,
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[33059, 119977, 225058, 225057, 1807140, 1224, 2, 131567, 1]",species,acidithiobacillus caldus,biolink:Bacterium,33059.0,119977.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[920, 119977, 225058, 225057, 1807140, 1224, 2, 131567, 1]",species,acidithiobacillus ferrooxidans,biolink:Bacterium,920.0,119977.0
+11,AEMRFAOFKBGASW-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+12,QRMZSPFSDQBLIX-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,,,biﬁdobacterium,,,
+13,OVBPIULPVIDEAO-LBPRGKRZSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",genus,bacteroides,biolink:Bacterium,816.0,815.0
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+14,RFDAIACWWDREDC-FRVQLJSFSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,streptococcus sp. 'group b',biolink:Bacterium,1319.0,2608887.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,staphylococcus saprophyticus,biolink:Bacterium,29385.0,1279.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus mirabilis,biolink:Bacterium,584.0,583.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+15,BDAGIHXWWSANSR-UHFFFAOYSA-N,,,citrobacter frundii,,,
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,,bacillus coagulans,,,
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,streptococcus sp. 'group b',biolink:Bacterium,1319.0,2608887.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,staphylococcus saprophyticus,biolink:Bacterium,29385.0,1279.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus mirabilis,biolink:Bacterium,584.0,583.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+16,JVTAAEKCZFNVCJ-REOHCLBHSA-N,,,citrobacter frundii,,,
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[374, 41294, 356, 28211, 1224, 2, 131567, 1]",genus,bradyrhizobium,biolink:Bacterium,374.0,41294.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",genus,rhizobium,biolink:Bacterium,379.0,227290.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas fluorescens,biolink:Bacterium,294.0,136843.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[360920, 29438, 251698, 136849, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",no rank,pseudomonas savastanoi pv. savastanoi,biolink:Bacterium,360920.0,29438.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[317, 251695, 136849, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas syringae,biolink:Bacterium,317.0,251695.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[549, 1654067, 53335, 1903409, 91347, 1236, 1224, 2, 131567, 1]",species,pantoea agglomerans,biolink:Bacterium,549.0,1654067.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[550, 354276, 547, 543, 91347, 1236, 1224, 2, 131567, 1]",species,enterobacter cloacae,biolink:Bacterium,550.0,354276.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,,,clostridium lituseburense,,,
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[99675, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium putrefaciens,biolink:Bacterium,99675.0,1485.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[1550, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium subterminale,biolink:Bacterium,1550.0,1485.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,,,clostridium sticklandii,,,
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus subtilis,biolink:Bacterium,1423.0,653685.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[358, 1183400, 357, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",species,agrobacterium tumefaciens,biolink:Bacterium,358.0,1183400.0
+17,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"[192, 191, 2829815, 204441, 28211, 1224, 2, 131567, 1]",species,azospirillum brasilense,biolink:Bacterium,192.0,191.0
+18,BTNMPGBKDVTSJY-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+19,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,bacillus,biolink:Bacterium,1386.0,186817.0
+20,SFLSHLFXELFNJZ-QMMMGPOBSA-N,"[561, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,escherichia,biolink:Bacterium,561.0,543.0
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+21,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[39948, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",genus,dialister,biolink:Bacterium,39948.0,31977.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,veillonella alcalescens,,,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[29466, 29465, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",species,veillonella parvula,biolink:Bacterium,29466.0,29465.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[971, 970, 1843491, 909929, 909932, 1239, 1783272, 2, 131567, 1]",species,selenomonas ruminantium,biolink:Bacterium,971.0,970.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[69823, 970, 1843491, 909929, 909932, 1239, 1783272, 2, 131567, 1]",species,selenomonas sputigena,biolink:Bacterium,69823.0,970.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[90371, 59201, 28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",no rank,salmonella enterica subsp. enterica serovar typhimurium,biolink:Bacterium,90371.0,59201.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,propionigenum modestum,,,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,propionibacterium acidipropionici,,,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",species,propionibacterium freudenreichii,biolink:Bacterium,1744.0,1743.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[1752, 1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",subspecies,propionibacterium freudenreichii subsp. shermanii,biolink:Bacterium,1752.0,1744.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[626940, 33024, 909930, 1843488, 909932, 1239, 1783272, 2, 131567, 1]",species,phascolarctobacterium succinatutens,biolink:Bacterium,626940.0,33024.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[907, 906, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",species,megasphaera elsdenii,biolink:Bacterium,907.0,906.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides fragilis,biolink:Bacterium,817.0,816.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,bacteroides ruminicola,,,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,bacteroides spp. ,,,
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+22,XBDQKXXYIPTUBI-UHFFFAOYSA-N,,,clostridia propionicum,,,
+23,LCTONWCANYUPML-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+23,LCTONWCANYUPML-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[653940, 697331, 712, 135625, 1236, 1224, 2, 131567, 1]",species,basfia succiniciproducens,biolink:Bacterium,653940.0,697331.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus mirabilis,biolink:Bacterium,584.0,583.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[157673, 697331, 712, 135625, 1236, 1224, 2, 131567, 1]",species,[mannheimia] succiniciproducens,biolink:Bacterium,157673.0,697331.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,,citrobacter frundii,,,
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"[13335, 13334, 83763, 135624, 1236, 1224, 2, 131567, 1]",species,anaerobiospirillum succiniciproducens,biolink:Bacterium,13335.0,13334.0
+24,KDYFGRWQOYBRFD-UHFFFAOYSA-N,,,actinobacillus succinogenes ,,,
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,enterococcus,biolink:Bacterium,1350.0,81852.0
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,streptococcus,biolink:Bacterium,1301.0,1300.0
+25,QZAYGJVTTNCVMB-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,enterococcus,biolink:Bacterium,1350.0,81852.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[51669, 51668, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,tetragenococcus halophilus,biolink:Bacterium,51669.0,51668.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[312306, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas entomophila,biolink:Bacterium,312306.0,286.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[364410, 364409, 433, 204441, 28211, 1224, 2, 131567, 1]",species,granulibacter bethesdensis,biolink:Bacterium,364410.0,364409.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[33996, 89583, 433, 204441, 28211, 1224, 2, 131567, 1]",species,gluconacetobacter diazotrophicus,biolink:Bacterium,33996.0,89583.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[1428, 86661, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus thuringiensis,biolink:Bacterium,1428.0,86661.0
+26,DZGWFCGJZKJUFP-UHFFFAOYSA-N,"[2748, 2747, 186828, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,carnobacterium divergens,biolink:Bacterium,2748.0,2747.0
+27,DZAIOXUZHHTJKN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+28,QVWAEZJXDYOKEH-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+28,QVWAEZJXDYOKEH-UHFFFAOYSA-N,"[1732, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,eubacterium oxidoreducens,biolink:Bacterium,1732.0,1730.0
+29,MUCMKTPAZLSKTL-NSHDSACASA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+29,MUCMKTPAZLSKTL-NSHDSACASA-N,"[475, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,moraxella,biolink:Bacterium,475.0,468.0
+29,MUCMKTPAZLSKTL-NSHDSACASA-N,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",genus,pseudomonas,biolink:Bacterium,286.0,135621.0
+30,BITYXLXUCSKTJS-ZETCQYMHSA-N,,,acetobacter suboxydans,,,
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,"[1596, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactobacillus gasseri,biolink:Bacterium,1596.0,1578.0
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,"[302911, 28025, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",subspecies,bifidobacterium animalis subsp. lactis,biolink:Bacterium,302911.0,28025.0
+31,DZAUWHJDUNRCTF-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+32,XFTRTWQBIOMVPK-UHFFFAOYSA-N,,,propionibacterium acnes,,,
+33,FVMDYYGIDFPZAX-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+33,FVMDYYGIDFPZAX-UHFFFAOYSA-N,"[40725, 39779, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium-like species,biolink:Bacterium,40725.0,39779.0
+34,WNLRTRBMVRJNCN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+35,POJWUDADGALRAB-UHFFFAOYSA-N,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus subtilis,biolink:Bacterium,1423.0,653685.0
+35,POJWUDADGALRAB-UHFFFAOYSA-N,"[1902, 1477431, 1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",species,streptomyces coelicolor,biolink:Bacterium,1902.0,1477431.0
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,"[1526, 1506553, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,[clostridium] aminophilum,biolink:Bacterium,1526.0,1506553.0
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,"[84024, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium disporicum,biolink:Bacterium,84024.0,1485.0
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,"[332101, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium drakei,biolink:Bacterium,332101.0,1485.0
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,"[1548, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium scatologenes,biolink:Bacterium,1548.0,1485.0
+36,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,"[1813, 2070, 85010, 1760, 201174, 1783272, 2, 131567, 1]",genus,amycolatopsis,biolink:Bacterium,1813.0,2070.0
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,"[1677868, 196821, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas sp. az10 upm,biolink:Bacterium,1677868.0,196821.0
+37,WKOLLVMJNQIZCI-UHFFFAOYSA-N,,,delftia acidivorans,,,
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",genus,arthrobacter,biolink:Bacterium,1663.0,1268.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[48073, 1706373, 1706369, 1236, 1224, 2, 131567, 1]",genus,microbulbifer,biolink:Bacterium,48073.0,1706373.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[39490, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,eubacterium ramulus,biolink:Bacterium,39490.0,1730.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+38,FJKROLUGYXJWQN-UHFFFAOYSA-N,,,clostridium saccharogumia,,,
+39,QYIXCDOBOSTCEI-NWKZBHTNSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+40,LQXVFWRQNMEDEE-UOWFLXDJSA-N,,,acetobacter aceti ,,,
+40,LQXVFWRQNMEDEE-UOWFLXDJSA-N,"[38308, 441, 433, 204441, 28211, 1224, 2, 131567, 1]",species,gluconobacter frateurii,biolink:Bacterium,38308.0,441.0
+40,LQXVFWRQNMEDEE-UOWFLXDJSA-N,,,gluconobacter suboxydans,,,
+41,SRBFZHDQGSBBOR-KLVWXMOXSA-N,,,mycobacterium smegmatis,,,
+42,JFCQEDHGNNZCLN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+43,XGILAAMKEQUXLS-JTQLQIEISA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+44,BXFFHSIDQOFMLE-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+45,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+46,KKADPXVIOXHVKN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,"[644, 642, 84642, 135624, 1236, 1224, 2, 131567, 1]",species,aeromonas hydrophila,biolink:Bacterium,644.0,642.0
+47,SJZRECIVHVDYJC-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,"[2049, 2037, 1760, 201174, 1783272, 2, 131567, 1]",family,actinomycetaceae,biolink:Bacterium,2049.0,2037.0
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,eubacterium,biolink:Bacterium,1730.0,186806.0
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,ruminococcus,biolink:Bacterium,1263.0,216572.0
+48,QIAFMBKCNZACKA-UHFFFAOYSA-N,"[853, 216851, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,faecalibacterium prausnitzii,biolink:Bacterium,853.0,216851.0
+49,PLVPPLCLBIEYEA-AATRIKPKSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+49,PLVPPLCLBIEYEA-AATRIKPKSA-N,"[215200, 1257, 186804, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,peptostreptococcus russellii,biolink:Bacterium,215200.0,1257.0
+50,SIKJAQJRHWYJAI-UHFFFAOYSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+50,SIKJAQJRHWYJAI-UHFFFAOYSA-N,,,pseudomonas sp. st-200,,,
+51,LVRFTAZAXQPQHI-YFKPBYRVSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,,,bifidobacteria,,,
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[1280, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,staphylococcus aureus,biolink:Bacterium,1280.0,1279.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,,,lactobacillus fermentum,,,
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,,,eubacterium lentum,,,
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",species,bifidobacterium bifidum,biolink:Bacterium,1681.0,1678.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",species,acinetobacter baumannii,biolink:Bacterium,470.0,909768.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides fragilis,biolink:Bacterium,817.0,816.0
+52,JVGVDSSUAVXRDY-UHFFFAOYSA-N,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides thetaiotaomicron,biolink:Bacterium,818.0,816.0
+53,DUUGKQCEGZLZNO-UHFFFAOYSA-N,,,human gut microbiota,,,
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,,,clostridium bifermentans,,,
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,"[1491, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium botulinum,biolink:Bacterium,1491.0,1485.0
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,"[2933746, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium caproicum,biolink:Bacterium,2933746.0,1485.0
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,,,clostridium sordellii,,,
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,,,clostridium difficile,,,
+54,XMIIGOLPHOKFCH-UHFFFAOYSA-N,"[39490, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,eubacterium ramulus,biolink:Bacterium,39490.0,1730.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,streptococcus,biolink:Bacterium,1301.0,1300.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[1245, 1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,leuconostoc mesenteroides,biolink:Bacterium,1245.0,1243.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[542, 541, 2844881, 204457, 28211, 1224, 2, 131567, 1]",species,zymomonas mobilis,biolink:Bacterium,542.0,541.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,torulaspora delbrueckii,,,
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",species,rhodobacteraceae bacterium caa105,biolink:Bacterium,476842.0,58840.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,rhodobacter spaeroides,,,
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,pseudomonas uorescens,,,
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactococcus lactis,biolink:Bacterium,1358.0,1357.0
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,gluconobacter suboxydans,,,
+55,FBPFZTCFMRRESA-KVTDHHQDSA-N,,,lactobacillus brevis,,,
+56,ISYWECDDZWTKFF-UHFFFAOYSA-N,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,staphylococcus,biolink:Bacterium,1279.0,90964.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,klebsiella,biolink:Bacterium,570.0,2890311.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,staphylococcus,biolink:Bacterium,1279.0,90964.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,,,lactobacillus fermentum,,,
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,,,eubacterium lentum,,,
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",species,bifidobacterium bifidum,biolink:Bacterium,1681.0,1678.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",species,acinetobacter baumannii,biolink:Bacterium,470.0,909768.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides fragilis,biolink:Bacterium,817.0,816.0
+57,VOXXWSYKYCBWHO-UHFFFAOYSA-N,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides thetaiotaomicron,biolink:Bacterium,818.0,816.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[2021, 83677, 83676, 85012, 1760, 201174, 1783272, 2, 131567, 1]",species,thermobifida fusca,biolink:Bacterium,2021.0,83677.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",species,synechococcus elongatus,biolink:Bacterium,32046.0,1129.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,,,propionibacterium acidipropionici,,,
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",species,propionibacterium freudenreichii,biolink:Bacterium,1744.0,1743.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium acetobutylicum,biolink:Bacterium,1488.0,1485.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium beijerinckii,biolink:Bacterium,1520.0,1485.0
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,,,clostridium neopropionicum,,,
+58,BDERNNFJNOPAEC-UHFFFAOYSA-N,"[645887, 696745, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,alkalibaculum bacchi,biolink:Bacterium,645887.0,696745.0
+59,SHZGCJCMOBCMKK-JFNONXLTSA-N,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,klebsiella,biolink:Bacterium,570.0,2890311.0
+59,SHZGCJCMOBCMKK-JFNONXLTSA-N,,,pseudomonas sp. dsm 2874,,,
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,,,clostridium aurantibutyricum,,,
+60,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium beijerinckii,biolink:Bacterium,1520.0,1485.0
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+61,NTYJJOPFIAHURM-UHFFFAOYSA-N,,,photobacterium phosphoreum ,,,
+62,OIPILFWXSMYKGL-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+63,AWDRATDZQPNJFN-VAYUFCLWSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[222, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,achromobacter,biolink:Bacterium,222.0,506.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",genus,acinetobacter,biolink:Bacterium,469.0,468.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2013649, 1752188, 201174, 1783272, 2, 131567, 1]",species,actinobacteria bacterium hgw-actinobacteria-4,biolink:Bacterium,2013649.0,1752188.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[642, 84642, 135624, 1236, 1224, 2, 131567, 1]",genus,aeromonas,biolink:Bacterium,642.0,84642.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[226, 2903219, 72275, 135622, 1236, 1224, 2, 131567, 1]",genus,alteromonas,biolink:Bacterium,226.0,2903219.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[165779, 1570339, 1737405, 1737404, 1239, 1783272, 2, 131567, 1]",genus,anaerococcus,biolink:Bacterium,165779.0,1570339.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,bacillus,biolink:Bacterium,1386.0,186817.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",genus,bacteroides,biolink:Bacterium,816.0,815.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroidetes bacterium hgw-bacteroidetes-13,biolink:Bacterium,2013681.0,37452.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[32008, 119060, 80840, 28216, 1224, 2, 131567, 1]",genus,burkholderia,biolink:Bacterium,32008.0,119060.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[194, 72294, 213849, 3031852, 29547, 2, 131567, 1]",genus,campylobacter,biolink:Bacterium,194.0,72294.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[544, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,citrobacter,biolink:Bacterium,544.0,543.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[36853, 2937909, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,desulfitobacterium,biolink:Bacterium,36853.0,2937909.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[872, 194924, 213115, 3031449, 200940, 2, 131567, 1]",genus,desulfovibrio,biolink:Bacterium,872.0,194924.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[890, 213421, 69541, 3031651, 200940, 2, 131567, 1]",genus,desulfuromonas,biolink:Bacterium,890.0,213421.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[132406, 45349, 6103, 6102, 6101, 6073, 6072, 33208, 33154, 2759, 131567, 1]",genus,edwardsiella,biolink:OrganismalEntity,132406.0,45349.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,enterococcus,biolink:Bacterium,1350.0,81852.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,eubacterium,biolink:Bacterium,1730.0,186806.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2013776, 84086, 1239, 1783272, 2, 131567, 1]",species,firmicutes bacterium hgw-firmicutes-15,biolink:Bacterium,2013776.0,84086.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[237, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",genus,flavobacterium,biolink:Bacterium,237.0,49546.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1236, 1224, 2, 131567, 1]",class,gammaproteobacteria,biolink:Bacterium,1236.0,1224.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,,,haloanaerobacter,,,
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,klebsiella,biolink:Bacterium,570.0,2890311.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1269, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",genus,micrococcus,biolink:Bacterium,1269.0,1268.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2050, 2049, 2037, 1760, 201174, 1783272, 2, 131567, 1]",genus,mobiluncus,biolink:Bacterium,2050.0,2049.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[133925, 1643824, 84999, 84998, 201174, 1783272, 2, 131567, 1]",genus,olsenella,biolink:Bacterium,133925.0,1643824.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[657, 641, 135623, 1236, 1224, 2, 131567, 1]",genus,photobacterium,biolink:Bacterium,657.0,641.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1397201, 81684, 1224, 2, 131567, 1]",species,proteobacteria bacterium bvirr177,biolink:Bacterium,1397201.0,81684.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[586, 1903414, 91347, 1236, 1224, 2, 131567, 1]",genus,providencia,biolink:Bacterium,586.0,1903414.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",genus,pseudomonas,biolink:Bacterium,286.0,135621.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1073, 41294, 356, 28211, 1224, 2, 131567, 1]",genus,rhodopseudomonas,biolink:Bacterium,1073.0,41294.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,ruminococcus,biolink:Bacterium,1263.0,216572.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[590, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,salmonella,biolink:Bacterium,590.0,543.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1266, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,sarcina,biolink:Bacterium,1266.0,31979.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2985502, 433515, 7049, 71193, 41087, 41084, 7041, 33392, 33340, 7496, 85512, 50557, 6960, 197562, 197563, 6656, 88770, 1206794, 33317, 33213, 6072, 33208, 33154, 2759, 131567, 1]",genus,serratia,biolink:OrganismalEntity,2985502.0,433515.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[22, 267890, 135622, 1236, 1224, 2, 131567, 1]",genus,shewanella,biolink:Bacterium,22.0,267890.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[620, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,shigella,biolink:Bacterium,620.0,543.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[28105, 227292, 82115, 356, 28211, 1224, 2, 131567, 1]",genus,sinorhizobium,biolink:Bacterium,28105.0,227292.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[2375, 1843490, 909929, 909932, 1239, 1783272, 2, 131567, 1]",genus,sporomusa,biolink:Bacterium,2375.0,1843490.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,staphylococcus,biolink:Bacterium,1279.0,90964.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[40, 39, 80811, 29, 32015, 2818505, 2, 131567, 1]",genus,stigmatella,biolink:Bacterium,40.0,39.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,streptococcus,biolink:Bacterium,1301.0,1300.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,,,vibrio ,,,
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[158876, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,yokenella,biolink:Bacterium,158876.0,543.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus mirabilis,biolink:Bacterium,584.0,583.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,"[550, 354276, 547, 543, 91347, 1236, 1224, 2, 131567, 1]",species,enterobacter cloacae,biolink:Bacterium,550.0,354276.0
+64,GETQZCLCWQTVFV-UHFFFAOYSA-N,,,clostridium xiva,,,
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroidetes bacterium hgw-bacteroidetes-13,biolink:Bacterium,2013681.0,37452.0
+65,UYPYRKYUKCHHIB-UHFFFAOYSA-N,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,ruminococcus,biolink:Bacterium,1263.0,216572.0
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,pseudomonas ligustri,,,
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,pseudomonas orvilla,,,
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,pseudomonas pseudomaleii,,,
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,cellulomonas galba,,,
+66,WBYWAXJHAXSJNI-VOTSOKGWSA-N,,,brevibacterium healii,,,
+67,KSEBMYQBYZTDHS-HWKANZROSA-N,,,pseudomonas acidovorans,,,
+67,KSEBMYQBYZTDHS-HWKANZROSA-N,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas fluorescens,biolink:Bacterium,294.0,136843.0
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,"[357, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",genus,agrobacterium,biolink:Bacterium,357.0,227290.0
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,"[1817, 85025, 85007, 1760, 201174, 1783272, 2, 131567, 1]",genus,nocardia,biolink:Bacterium,1817.0,85025.0
+68,FEWJPZIEWOKRBE-JCYAYHJZSA-N,"[379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",genus,rhizobium,biolink:Bacterium,379.0,227290.0
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+69,YCIMNLLNPGFGHC-UHFFFAOYSA-N,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,mycobacterium tuberculosis,biolink:Bacterium,1773.0,77643.0
+70,HDTRYLNUVZCQOY-LIZSDCNHSA-N,"[1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",genus,propionibacterium,biolink:Bacterium,1743.0,31957.0
+70,HDTRYLNUVZCQOY-LIZSDCNHSA-N,"[95485, 87882, 32008, 119060, 80840, 28216, 1224, 2, 131567, 1]",species,burkholderia stabilis,biolink:Bacterium,95485.0,87882.0
+70,HDTRYLNUVZCQOY-LIZSDCNHSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+71,IKHGUXGNUITLKF-UHFFFAOYSA-N,"[210, 209, 72293, 213849, 3031852, 29547, 2, 131567, 1]",species,helicobacter pylori,biolink:Bacterium,210.0,209.0
+72,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+73,OLVVOVIFTBSBBH-KVTDHHQDSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+74,LABSPYBHMPDTEL-LIZSDCNHSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+74,LABSPYBHMPDTEL-LIZSDCNHSA-N,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,mycobacterium tuberculosis,biolink:Bacterium,1773.0,77643.0
+75,OVRNDRQMDRJTHS-OZRXBMAMSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+76,XTOKIEIBKARFSZ-LURJTMIESA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+77,VWXQFHJBQHTHMK-LURJTMIESA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+78,AJPADPZSRRUGHI-RFZPGFLSSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+78,AJPADPZSRRUGHI-RFZPGFLSSA-N,"[1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",genus,streptomyces,biolink:Bacterium,1883.0,2062.0
+79,LKDRXBCSQODPBY-BGPJRJDNSA-N,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",species,ketogulonicigenium vulgare,biolink:Bacterium,92945.0,92944.0
+80,QNAYBMKLOCPYGJ-UWTATZPHSA-N,"[53420, 2323, 2, 131567, 1]",no rank,unclassified gram-positive bacteria,biolink:Bacterium,53420.0,2323.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1375, 186827, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,aerococcus,biolink:Bacterium,1375.0,186827.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[2747, 186828, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,carnobacterium,biolink:Bacterium,2747.0,186828.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,enterococcus,biolink:Bacterium,1350.0,81852.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactococcus,biolink:Bacterium,1357.0,1300.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,leuconostoc,biolink:Bacterium,1243.0,33958.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[46254, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,oenococcus,biolink:Bacterium,46254.0,33958.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,pediococcus,biolink:Bacterium,1253.0,33958.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,streptococcus,biolink:Bacterium,1301.0,1300.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[51668, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,tetragenococcus,biolink:Bacterium,51668.0,81852.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[2737, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,vagococcus,biolink:Bacterium,2737.0,81852.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[46255, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,weissella,biolink:Bacterium,46255.0,33958.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,,lactobacillus delbruekii,,,
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[109790, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactobacillus jensenii,biolink:Bacterium,109790.0,1578.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+81,JVTAAEKCZFNVCJ-UWTATZPHSA-N,,,bacillus coagulans,,,
+82,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,"[53420, 2323, 2, 131567, 1]",no rank,unclassified gram-positive bacteria,biolink:Bacterium,53420.0,2323.0
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,"[2775522, 1983111, 1117, 1798711, 1783272, 2, 131567, 1]",species,cyanobacteria bacterium m_surface_7_m2_040,biolink:Bacterium,2775522.0,1983111.0
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",species,rhodobacteraceae bacterium caa105,biolink:Bacterium,476842.0,58840.0
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,,rhodobacter sphaeroides,,,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,,halobacterium salinarum,,,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,,citrobacter intermediuns,,,
+83,UFHFLCQGNIYNRP-UHFFFAOYSA-N,,,enterobacter aerogenes,,,
+84,GMKMEZVLHJARHF-WHFBIAKZSA-N,,,gram-negative bacteria,,,
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,"[222, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,achromobacter,biolink:Bacterium,222.0,506.0
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",species,rhodobacteraceae bacterium caa105,biolink:Bacterium,476842.0,58840.0
+85,OVPRPPOVAXRCED-WVZVXSGGSA-N,,,rlzodopseudomonas spheroides,,,
+86,ALYNCZNDIQEVRV-UHFFFAOYSA-N,,,acetobacter suboxydans,,,
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,,,enterobacter aerogenes,,,
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,"[28141, 413496, 543, 91347, 1236, 1224, 2, 131567, 1]",species,cronobacter sakazakii,biolink:Bacterium,28141.0,413496.0
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,"[57706, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",species,citrobacter braakii,biolink:Bacterium,57706.0,1344959.0
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,"[546, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",species,citrobacter freundii,biolink:Bacterium,546.0,1344959.0
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,"[133448, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",species,citrobacter youngae,biolink:Bacterium,133448.0,1344959.0
+87,KIDHWZJUCRJVML-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+88,GACTWZZMVMUKNG-KVTDHHQDSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium acetobutylicum,biolink:Bacterium,1488.0,1485.0
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium beijerinckii,biolink:Bacterium,1520.0,1485.0
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium butylicum,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium felsenium,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium glycolycum,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium pasteurianum ,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium propylbutyricum ,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium saccharoperbutylacetonicum ,,,
+89,CSCPPACGZOOCGX-UHFFFAOYSA-N,,,clostridium thermosaccharolyticum,,,
+90,YQUVCSBJEUQKSH-UHFFFAOYSA-N,"[69962, 69961, 351, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,azomonas macrocytogenes,biolink:Bacterium,69962.0,69961.0
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",genus,bacteroides,biolink:Bacterium,816.0,815.0
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+91,IWDCLRJOBJJRNH-UHFFFAOYSA-N,,,clostridium difficile,,,
+92,WPYMKLBDIGXBTP-UHFFFAOYSA-N,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",species,serratia marcescens,biolink:Bacterium,615.0,613.0
+93,QAIPRVGONGVQAS-DUXPYHPUSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+94,HCFRWBBJISAZNK-UHFFFAOYSA-N,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",genus,arthrobacter,biolink:Bacterium,1663.0,1268.0
+95,RLSSMJSEOOYNOY-UHFFFAOYSA-N,"[479077, 400634, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,lysinibacillus cresolivorans,biolink:Bacterium,479077.0,400634.0
+96,QWVGKYWNOKOFNN-UHFFFAOYSA-N,,,pseudomonas sp. cp4,,,
+97,KLZGKIDSEJWEDW-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+98,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+99,LVHBHZANLOWSRM-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+100,JTEDVYBZBROSJT-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,klebsiella,biolink:Bacterium,570.0,2890311.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,staphylococcus,biolink:Bacterium,1279.0,90964.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,,,lactobacillus fermentum,,,
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,,,eubacterium lentum,,,
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,,,clostridium orbiscindens,,,
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,,,clostridium botulinium,,,
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",species,bifidobacterium bifidum,biolink:Bacterium,1681.0,1678.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",species,acinetobacter baumannii,biolink:Bacterium,470.0,909768.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides fragilis,biolink:Bacterium,817.0,816.0
+101,NMHMNPHRMNGLLB-UHFFFAOYSA-N,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides thetaiotaomicron,biolink:Bacterium,818.0,816.0
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,"[84111, 1643826, 1643822, 84998, 201174, 1783272, 2, 131567, 1]",genus,eggerthella,biolink:Bacterium,84111.0,1643826.0
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,,,lactobacillus mucosae,,,
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+102,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,"[28116, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides ovatus,biolink:Bacterium,28116.0,816.0
+103,VEVJTUNLALKRNO-TYHXJLICSA-N,"[115828, 1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",species,streptomyces maritimus,biolink:Bacterium,115828.0,1883.0
+104,GOLXRNDWAUTYKT-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[43988, 1892249, 1150, 1301283, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",genus,cyanothece,biolink:Bacterium,43988.0,1892249.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[82115, 356, 28211, 1224, 2, 131567, 1]",family,rhizobiaceae,biolink:Bacterium,82115.0,356.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[384, 379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",species,rhizobium leguminosarum,biolink:Bacterium,384.0,379.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[882211, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas deceptionensis,biolink:Bacterium,882211.0,286.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[1355477, 374, 41294, 356, 28211, 1224, 2, 131567, 1]",species,bradyrhizobium diazoefficiens,biolink:Bacterium,1355477.0,374.0
+105,QMMFVYPAHWMCMS-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+106,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+107,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+107,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+108,IJFXRHURBJZNAO-UHFFFAOYSA-N,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",genus,pseudomonas,biolink:Bacterium,286.0,135621.0
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium bifermentans,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium calortolerans,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium difficile,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium ghoni,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium mangenoyi,,,
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+109,KHTAGVZHYUZYMF-UHFFFAOYSA-N,,,clostridium botulinium,,,
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",species,serratia marcescens,biolink:Bacterium,615.0,613.0
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,,,achromobacter xylosoxydans,,,
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,,,pseudomonas acidovorans,,,
+110,BLHCMGRVFXRYRN-UHFFFAOYSA-N,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas fluorescens,biolink:Bacterium,294.0,136843.0
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanobrevibacter,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanococcus,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanocorpusculum,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanoculleus,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanoflorens,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanofollis,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanogenium,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanomicrobium,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanopyrus,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanoregula,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanosarcina,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanothermobacter,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanosaeta,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanothrix sochngenii,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanospirillium hungatei,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanosphaera stadtmanae,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,"[881, 872, 194924, 213115, 3031449, 200940, 2, 131567, 1]",species,desulfovibrio vulgaris,biolink:Bacterium,881.0,872.0
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanobacterium bryantii,,,
+111,VNWKTOKETHGBQD-UHFFFAOYSA-N,,,methanobacterium espanolae,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[225842, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",genus,formosa,biolink:Bacterium,225842.0,49546.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus subtilis,biolink:Bacterium,1423.0,653685.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,zeaxanthinibacter enoshimensi,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[392409, 13687, 41297, 204457, 28211, 1224, 2, 131567, 1]",species,sphingomonas jaspsi,biolink:Bacterium,392409.0,13687.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,sphingomonas natatoria,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[762954, 1204360, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",species,siansivirga zeaxanthinifaciens,biolink:Bacterium,762954.0,1204360.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[187400, 265, 31989, 204455, 28211, 1224, 2, 131567, 1]",species,paracoccus zeaxanthinifaciens,biolink:Bacterium,187400.0,265.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[392412, 565005, 84566, 200666, 117747, 976, 68336, 1783270, 2, 131567, 1]",species,nubsella zeaxanthinifaciens,biolink:Bacterium,392412.0,565005.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,muricauda aquimarina,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,muricauda flavescens,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,muricauda lutaonensis,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,muricauda olearia,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,mesoflavibacter aestuarii,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[393060, 444051, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",species,mesoflavibacter zeaxanthinifaciens,biolink:Bacterium,393060.0,444051.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[1227947, 221065, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",species,kordia aquimaris,biolink:Bacterium,1227947.0,221065.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[419940, 1080193, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",species,hyunsoonleella jejuensis,biolink:Bacterium,419940.0,1080193.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,gramella oceani,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,gramella planctonica,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,flavobacterium multivorum,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,algibacter sp. aqp096,,,
+112,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,,,aquibacter zeaxanthinifacien,,,
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",species,serratia marcescens,biolink:Bacterium,615.0,613.0
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,"[571, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella oxytoca,biolink:Bacterium,571.0,570.0
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,,,bacillus polymyxa,,,
+113,OWBTYPJTUOEWEK-UHFFFAOYSA-N,,,enterobacter aerogenes,,,
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",genus,alcaligenes,biolink:Bacterium,507.0,506.0
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,"[585, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,proteus vulgaris,biolink:Bacterium,585.0,583.0
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,"[39831, 573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",subspecies,klebsiella pneumoniae subsp. rhinoscleromatis,biolink:Bacterium,39831.0,573.0
+114,RWSOTUBLDIXVET-UHFFFAOYSA-N,,,chromobacterium prodigiosum,,,
+115,VGEREEWJJVICBM-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+116,WHUUTDBJXJRKMK-GSVOUGTGSA-N,,,lactobacillus paracasei,,,
+116,WHUUTDBJXJRKMK-GSVOUGTGSA-N,,,lactobacillus plantarum,,,
+117,JJMDCOVWQOJGCB-UHFFFAOYSA-N,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,corynebacterium glutamicum,biolink:Bacterium,1718.0,1716.0
+118,MBBOMCVGYCRMEA-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+119,RAJWOBJTTGJROA-QJISAEMRSA-N,,,corynebacterium jekeium,,,
+120,SXDXRJZUAJBNFL-XKSSXDPKSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+121,RQRINYISXYAZKL-RPDRRWSUSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+122,BEOUGZFCUMNGOU-UHFFFAOYSA-N,"[2037, 1760, 201174, 1783272, 2, 131567, 1]",order,actinomycetales,biolink:Bacterium,2037.0,1760.0
+122,BEOUGZFCUMNGOU-UHFFFAOYSA-N,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",species,mycobacterium tuberculosis,biolink:Bacterium,1773.0,77643.0
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,"[407, 119045, 356, 28211, 1224, 2, 131567, 1]",genus,methylobacterium,biolink:Bacterium,407.0,119045.0
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,,,bifidobacteria catenulatum,,,
+123,PTHCMJGKKRQCBF-ICIGWGHZSA-N,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactococcus lactis,biolink:Bacterium,1358.0,1357.0
+124,YCCILVSKPBXVIP-UHFFFAOYSA-N,"[1596, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactobacillus gasseri,biolink:Bacterium,1596.0,1578.0
+124,YCCILVSKPBXVIP-UHFFFAOYSA-N,"[302911, 28025, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",subspecies,bifidobacterium animalis subsp. lactis,biolink:Bacterium,302911.0,28025.0
+124,YCCILVSKPBXVIP-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[28896, 28895, 186814, 68295, 186801, 1239, 1783272, 2, 131567, 1]",species,thermoanaerobacterium saccharolyticum,biolink:Bacterium,28896.0,28895.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",species,synechococcus elongatus,biolink:Bacterium,32046.0,1129.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,,,lactobacillus brevis,,,
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,,,bacillus cereus ,,,
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus subtilis,biolink:Bacterium,1423.0,653685.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium acetobutylicum,biolink:Bacterium,1488.0,1485.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium beijerinckii,biolink:Bacterium,1520.0,1485.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,,,clostridium butylicum,,,
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[217159, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium carboxidivorans,biolink:Bacterium,217159.0,1485.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[1493, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium cellulovorans,biolink:Bacterium,1493.0,1485.0
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,,,clostridium pasteurianum ,,,
+125,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"[1519, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium tyrobutyricum,biolink:Bacterium,1519.0,1485.0
+126,CHTHALBTIRVDBM-UHFFFAOYSA-N,"[68895, 106589, 119060, 80840, 28216, 1224, 2, 131567, 1]",species,cupriavidus basilensis,biolink:Bacterium,68895.0,106589.0
+127,HHVIBTZHLRERCL-UHFFFAOYSA-N,"[1033, 41294, 356, 28211, 1224, 2, 131567, 1]",genus,afipia,biolink:Bacterium,1033.0,41294.0
+128,JUUBCHWRXWPFFH-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",species,synechococcus elongatus,biolink:Bacterium,32046.0,1129.0
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,,,geobacillus thermoglucosidasius,,,
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,,,clostridium cellulolyticum,,,
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,,,clostridium thermocellum,,,
+129,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"[106590, 106589, 119060, 80840, 28216, 1224, 2, 131567, 1]",species,cupriavidus necator,biolink:Bacterium,106590.0,106589.0
+130,PHTQWCKDNZKARW-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+131,XDOFWFNMYJRHEW-UHFFFAOYSA-N,"[40725, 39779, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium-like species,biolink:Bacterium,40725.0,39779.0
+132,TXXHDPDFNKHHGW-CCAGOZQPSA-N,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",genus,arthrobacter,biolink:Bacterium,1663.0,1268.0
+132,TXXHDPDFNKHHGW-CCAGOZQPSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+132,TXXHDPDFNKHHGW-CCAGOZQPSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
+133,JFLIEFSWGNOPJJ-JTQLQIEISA-N,"[990719, 186802, 186801, 1239, 1783272, 2, 131567, 1]",family,christensenellaceae,biolink:Bacterium,990719.0,186802.0
+133,JFLIEFSWGNOPJJ-JTQLQIEISA-N,"[186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",family,lachnospiraceae,biolink:Bacterium,186803.0,186802.0
+133,JFLIEFSWGNOPJJ-JTQLQIEISA-N,"[1952376, 473772, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,ruminococcaceae bacterium uba5295,biolink:Bacterium,1952376.0,473772.0
+134,ZOSQFDVXNQFKBY-CGAXJHMRSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+135,NUZLRKBHOBPTQV-ARJAWSKDSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+136,WFPZSXYXPSUOPY-ROYWQJLOSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+137,ZKLLSNQJRLJIGT-OTWZMJIISA-N,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",species,klebsiella pneumoniae,biolink:Bacterium,573.0,570.0
+137,ZKLLSNQJRLJIGT-OTWZMJIISA-N,"[655183, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species group,lactobacillus casei group,biolink:Bacterium,655183.0,1578.0
+138,CJJCPDZKQKUXSS-ARQDHWQXSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,enterobacter,biolink:Bacterium,547.0,543.0
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",genus,bifidobacterium,biolink:Bacterium,1678.0,31953.0
+139,WGNAKZGUSRVWRH-UHFFFAOYSA-N,,,clostridium difficile,,,
+140,IZSRJDGCGRAUAR-UHFFFAOYSA-N,,,gluconobacter suboxydans,,,
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,klebsiella,biolink:Bacterium,570.0,2890311.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",genus,staphylococcus,biolink:Bacterium,1279.0,90964.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,,,lactobacillus fermentum,,,
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,,,eubacterium lentum,,,
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",species,bifidobacterium bifidum,biolink:Bacterium,1681.0,1678.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",species,acinetobacter baumannii,biolink:Bacterium,470.0,909768.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides fragilis,biolink:Bacterium,817.0,816.0
+141,YPGCWEMNNLXISK-UHFFFAOYSA-N,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",species,bacteroides thetaiotaomicron,biolink:Bacterium,818.0,816.0
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,,,lactobacillus brevis,,,
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,,,lactobacillus hilgardii,,,
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,bacillus subtilis,biolink:Bacterium,1423.0,653685.0
+142,BHHGXPLMPWCGHP-UHFFFAOYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+143,WQZGKKKJIJFFOK-QRXFDPRISA-N,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",species,ketogulonicigenium vulgare,biolink:Bacterium,92945.0,92944.0
+144,GZQKNULLWNGMCW-PWQABINMSA-N,,,meningococcus,,,
+144,GZQKNULLWNGMCW-PWQABINMSA-N,"[90371, 59201, 28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",no rank,salmonella enterica subsp. enterica serovar typhimurium,biolink:Bacterium,90371.0,59201.0
+144,GZQKNULLWNGMCW-PWQABINMSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+144,GZQKNULLWNGMCW-PWQABINMSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+145,BFVQTKQTUCQRPI-YYEZTRBPSA-N,"[28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",species,salmonella enterica,biolink:Bacterium,28901.0,590.0
+145,BFVQTKQTUCQRPI-YYEZTRBPSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+145,BFVQTKQTUCQRPI-YYEZTRBPSA-N,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas aeruginosa,biolink:Bacterium,287.0,136841.0
+146,AAXCQFOXUJMCCW-PETQGJDISA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+146,AAXCQFOXUJMCCW-PETQGJDISA-N,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",genus,pseudomonas,biolink:Bacterium,286.0,135621.0
+146,AAXCQFOXUJMCCW-PETQGJDISA-N,"[590, 543, 91347, 1236, 1224, 2, 131567, 1]",genus,salmonella,biolink:Bacterium,590.0,543.0
+147,QCDYQQDYXPDABM-UHFFFAOYSA-N,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas fluorescens,biolink:Bacterium,294.0,136843.0
+148,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,,,human gut microbiota,,,
+149,OLNJUISKUQQNIM-UHFFFAOYSA-N,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",genus,clostridium,biolink:Bacterium,1485.0,31979.0
+149,OLNJUISKUQQNIM-UHFFFAOYSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+150,KTHADMDGDNYQRX-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1308, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,streptococcus thermophilus,biolink:Bacterium,1308.0,1301.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1254, 1670797, 1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,pediococcus acidilactici,biolink:Bacterium,1254.0,1670797.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1255, 1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,pediococcus pentosaceus,biolink:Bacterium,1255.0,1253.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactococcus lactis,biolink:Bacterium,1358.0,1357.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1584, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactobacillus delbrueckii,biolink:Bacterium,1584.0,1578.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1587, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,lactobacillus helveticus,biolink:Bacterium,1587.0,1578.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,,,lactobacillus plantarum,,,
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1422, 129337, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,geobacillus stearothermophilus,biolink:Bacterium,1422.0,129337.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecalis,biolink:Bacterium,1351.0,1350.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",species,enterococcus faecium,biolink:Bacterium,1352.0,1350.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,,,enterobacter aerogenes,,,
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium acetobutylicum,biolink:Bacterium,1488.0,1485.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[405212, 29330, 186823, 1385, 91061, 1239, 1783272, 2, 131567, 1]",species,alicyclobacillus acidocaldarius,biolink:Bacterium,405212.0,29330.0
+151,SRBFZHDQGSBBOR-SQOUGZDYSA-N,"[216816, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",species,bifidobacterium longum,biolink:Bacterium,216816.0,1678.0
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,"[844, 843, 72293, 213849, 3031852, 29547, 2, 131567, 1]",species,wolinella succinogenes,biolink:Bacterium,844.0,843.0
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,"[907, 906, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",species,megasphaera elsdenii,biolink:Bacterium,907.0,906.0
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,,,bacteroides ruminicola,,,
+152,KQTIIICEAUMSDG-UHFFFAOYSA-N,"[831, 830, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,butyrivibrio fibrisolvens,biolink:Bacterium,831.0,830.0
+153,RWRDLPDLKQPQOW-UHFFFAOYSA-N,"[628, 626, 1903414, 91347, 1236, 1224, 2, 131567, 1]",species,xenorhabdus nematophila,biolink:Bacterium,628.0,626.0
+154,RSTKLPZEZYGQPY-UHFFFAOYSA-N,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",species,clostridium sporogenes,biolink:Bacterium,1509.0,1485.0
+155,XVARCVCWNFACQC-RKQHYHRCSA-N,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",genus,lactobacillus,biolink:Bacterium,1578.0,33958.0
+156,TXXHDPDFNKHHGW-UHFFFAOYSA-N,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",species,escherichia coli,biolink:Bacterium,562.0,561.0
+156,TXXHDPDFNKHHGW-UHFFFAOYSA-N,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",species,pseudomonas putida,biolink:Bacterium,303.0,136845.0
